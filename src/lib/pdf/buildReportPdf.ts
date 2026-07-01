@@ -1,11 +1,10 @@
-import path from "node:path";
 import { createRequire } from "node:module";
 import type { ReportSnapshot } from "@/lib/types/reportSnapshot";
 
-// Load pdfkit from node_modules at runtime so AFM fonts resolve correctly
-const require = createRequire(path.join(process.cwd(), "package.json"));
+// Load pdfkit via createRequire so its AFM font files resolve correctly relative
+// to this module's location — works in both local dev and Vercel serverless.
 // eslint-disable-next-line @typescript-eslint/no-require-imports
-const PDFDocument: typeof import("pdfkit") = require("pdfkit");
+const PDFDocument: typeof import("pdfkit") = createRequire(import.meta.url)("pdfkit");
 
 type PDFDoc = InstanceType<typeof PDFDocument>;
 
