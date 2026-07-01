@@ -154,6 +154,7 @@ export type RankToScoreResult = {
   genMin: number;
   genMax: number;
   total: number;
+  community: CommunityKey | null;
 };
 
 export function rankToScore(generalRank: number): RankToScoreResult | null {
@@ -174,6 +175,19 @@ export function rankToScore(generalRank: number): RankToScoreResult | null {
       lo = mid + 1;
     } else {
       const entry = dataset.scoreMap[scoreKey(bp[mid].score)];
+
+      // Identify the community this specific rank belongs to by checking
+      // which community's general-rank range contains the given rank.
+      let community: CommunityKey | null = null;
+      if (entry) {
+        for (const [key, comm] of Object.entries(entry.communities)) {
+          if (comm && comm.genMin <= generalRank && generalRank <= comm.genMax) {
+            community = key as CommunityKey;
+            break;
+          }
+        }
+      }
+
       return {
         year,
         rank: generalRank,
@@ -181,6 +195,7 @@ export function rankToScore(generalRank: number): RankToScoreResult | null {
         genMin,
         genMax,
         total: entry?.total ?? 0,
+        community,
       };
     }
   }

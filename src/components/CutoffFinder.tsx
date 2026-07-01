@@ -404,7 +404,7 @@ export default function CutoffFinder({ data }: { data: CollegeRow[] }) {
 
   const allDeptsOpen = results ? results.uniqueDepts === totalUniqueDepts : false;
 
-  // ── Rank auto-fill: whenever rank resolves, always update cutoff ─────────────
+  // ── Rank auto-fill: whenever rank resolves, update cutoff + community ────────
   const parsedRank = parseInt(rankInput, 10);
   const hasValidRank = rankDataReady && !isNaN(parsedRank) && parsedRank > 0;
 
@@ -413,6 +413,9 @@ export default function CutoffFinder({ data }: { data: CollegeRow[] }) {
     const res = rankToScore(parsedRank);
     if (res) {
       setCutoff(res.score.toString());
+      if (res.community) {
+        setCategory(res.community.toLowerCase() as CategoryKey);
+      }
     }
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [rankInput, hasValidRank]);
@@ -642,7 +645,10 @@ export default function CutoffFinder({ data }: { data: CollegeRow[] }) {
 
                   {rankDataReady && rankLookupResult && (
                     <p style={{ fontFamily: "var(--font-body)", fontSize: "0.72rem", color: "#16a34a", margin: "0 0 14px" }}>
-                      ✓ Rank {parsedRank.toLocaleString("en-IN")} → cutoff <strong>{rankLookupResult.score}</strong> · auto-filled below
+                      ✓ Rank {parsedRank.toLocaleString("en-IN")} → cutoff <strong>{rankLookupResult.score}</strong>
+                      {rankLookupResult.community && (
+                        <> · community <strong>{rankLookupResult.community}</strong> auto-selected</>
+                      )}
                     </p>
                   )}
                   {rankDataReady && rankInput && !rankLookupResult && (
