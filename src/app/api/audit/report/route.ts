@@ -21,6 +21,7 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ ok: true });
   } catch (err) {
     const message = err instanceof Error ? err.message : "Database error";
+    console.error("audit/report failed", { message });
     return NextResponse.json({ error: message }, { status: 500 });
   }
 }

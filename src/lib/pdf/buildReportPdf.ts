@@ -3,7 +3,6 @@ import type { ReportSnapshot } from "@/lib/types/reportSnapshot";
 
 // Load pdfkit via createRequire so its AFM font files resolve correctly relative
 // to this module's location — works in both local dev and Vercel serverless.
-// eslint-disable-next-line @typescript-eslint/no-require-imports
 const PDFDocument: typeof import("pdfkit") = createRequire(import.meta.url)("pdfkit");
 
 type PDFDoc = InstanceType<typeof PDFDocument>;

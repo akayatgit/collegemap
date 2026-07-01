@@ -48,6 +48,7 @@ export async function POST(req: NextRequest) {
       });
     } catch (err) {
       const message = err instanceof Error ? err.message : "Failed to save lead";
+      console.error("leads: insertLead failed", { message });
       return NextResponse.json({ error: message }, { status: 500 });
     }
   }
@@ -68,6 +69,7 @@ export async function POST(req: NextRequest) {
   );
 
   if (!mailResult.ok) {
+    console.error("leads: sendReportEmail failed", { error: mailResult.error, email: trimmedEmail });
     return NextResponse.json({ error: mailResult.error }, { status: 500 });
   }
 

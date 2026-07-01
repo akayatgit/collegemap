@@ -53,16 +53,22 @@ export type ReportInputPayload = {
 
 export async function logReportGenerated(payload: ReportInputPayload): Promise<void> {
   try {
-    await fetch("/api/audit/report", {
+    const res = await fetch("/api/audit/report", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
+      keepalive: true,
       body: JSON.stringify({
         ...payload,
         sessionId: getSessionId(),
       }),
     });
+    if (!res.ok) {
+      const body = await res.text();
+      console.error("audit/report failed", res.status, body);
+    }
   } catch {
-    // silent
+    // silent for UX, but still visible in browser console for investigation
+    console.error("audit/report network failure");
   }
 }
 
@@ -94,7 +100,14 @@ export async function saveLead(payload: LeadPayload): Promise<{ ok: boolean; err
         const data = await res.json();
         return { ok: false, error: data.error ?? "Request failed" };
       }
-      return { ok: false, error: `Service unavailable (${res.status}). Please try again later.` };
+      const body = await res.text();
+      const compact = body.replace(/\s+/g, " ").trim().slice(0, 160);
+      return {
+        ok: false,
+        error: compact
+          ? `Service unavailable (${res.status}): ${compact}`
+          : `Service unavailable (${res.status}). Please try again later.`,
+      };
     }
     return { ok: true };
   } catch {
