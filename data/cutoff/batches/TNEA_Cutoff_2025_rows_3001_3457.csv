@@ -1,0 +1,458 @@
+Page,Code,College Name,Branch,OC,BC,BCM,MBC,SC,SCA,ST
+61,4960,"Mepco Schlenk Engineering College (Autonomous), Sivakasi,Mepco Engineering College Post,Virudhunagar District-626005.",ELECTRONICS AND COMMUNICATION ENGINEERING,183.0,176.5,177.0,174.0,138.5,128.0,—
+61,4960,"Mepco Schlenk Engineering College (Autonomous), Sivakasi,Mepco Engineering College Post,Virudhunagar District-626005.",ELECTRICAL AND ELECTRONICS ENGINEERING,174.0,168.5,173.5,157.5,128.5,—,107.0
+61,4960,"Mepco Schlenk Engineering College (Autonomous), Sivakasi,Mepco Engineering College Post,Virudhunagar District-626005.",INFORMATION TECHNOLOGY,181.0,175.5,176.5,170.0,130.0,165.5*,—
+61,4960,"Mepco Schlenk Engineering College (Autonomous), Sivakasi,Mepco Engineering College Post,Virudhunagar District-626005.",MECHANICAL ENGINEERING,166.5,157.5,159.0,142.5,114.0,—,—
+61,4961,"Nellai College of Engineering , Maruthakulam P.O, Nanguneri Taluk, Tirunelveli-627151.",Artificial Intelligence and Data Science,142.0*,—,—,—,—,—,—
+61,4961,"Nellai College of Engineering , Maruthakulam P.O, Nanguneri Taluk, Tirunelveli-627151.",CIVIL ENGINEERING,123.5*,—,—,—,—,—,—
+61,4961,"Nellai College of Engineering , Maruthakulam P.O, Nanguneri Taluk, Tirunelveli-627151.",COMPUTER SCIENCE AND ENGINEERING,109.0*,—,—,—,—,—,—
+61,4961,"Nellai College of Engineering , Maruthakulam P.O, Nanguneri Taluk, Tirunelveli-627151.",ELECTRONICS AND COMMUNICATION ENGINEERING,88.0*,—,—,—,—,—,—
+61,4961,"Nellai College of Engineering , Maruthakulam P.O, Nanguneri Taluk, Tirunelveli-627151.",ELECTRICAL AND ELECTRONICS ENGINEERING,88.5*,—,—,—,—,—,—
+61,4961,"Nellai College of Engineering , Maruthakulam P.O, Nanguneri Taluk, Tirunelveli-627151.",MECHANICAL ENGINEERING,86.5*,—,—,—,—,—,—
+61,4961,"Nellai College of Engineering , Maruthakulam P.O, Nanguneri Taluk, Tirunelveli-627151.",Computer Science and Engineering (Cyber Security),127.0*,—,—,—,—,—,—
+61,4962,"National Engineering College (Autonomous), K.R. Nagar, Nalattinputhur, Kovilpatti, Tuticorin District-628503.",Artificial Intelligence and Data Science,183.5,179.5,182.0,175.5,146.5,150.5,—
+61,4962,"National Engineering College (Autonomous), K.R. Nagar, Nalattinputhur, Kovilpatti, Tuticorin District-628503.",CIVIL ENGINEERING,169.0,152.5,158.5,145.5,115.0*,—,—
+61,4962,"National Engineering College (Autonomous), K.R. Nagar, Nalattinputhur, Kovilpatti, Tuticorin District-628503.",COMPUTER SCIENCE AND ENGINEERING,188.0,181.5,183.5,180.5,156.5,162.5*,—
+61,4962,"National Engineering College (Autonomous), K.R. Nagar, Nalattinputhur, Kovilpatti, Tuticorin District-628503.",ELECTRONICS AND COMMUNICATION ENGINEERING,185.0,179.0,184.5,173.0,144.5,95.0,127.0
+61,4962,"National Engineering College (Autonomous), K.R. Nagar, Nalattinputhur, Kovilpatti, Tuticorin District-628503.",ELECTRICAL AND ELECTRONICS ENGINEERING,178.5,175.5,175.5,168.0,141.0,—,—
+61,4962,"National Engineering College (Autonomous), K.R. Nagar, Nalattinputhur, Kovilpatti, Tuticorin District-628503.",INFORMATION TECHNOLOGY,184.0,180.0,183.0,174.5,149.5,144.0,—
+61,4962,"National Engineering College (Autonomous), K.R. Nagar, Nalattinputhur, Kovilpatti, Tuticorin District-628503.",MECHANICAL ENGINEERING,172.0,163.0,—,147.0,104.5,93.0,—
+61,4964,PSN College of Engineering and Technology (Autonomous) Melathediyoor Tirunelveli-627 152,Artificial Intelligence and Data Science,135.5,120.0,99.5,113.0,120.5,—,—
+61,4964,PSN College of Engineering and Technology (Autonomous) Melathediyoor Tirunelveli-627 152,AERONAUTICAL ENGINEERING,104.0,87.5*,—,95.0*,82.0*,92.5*,—
+61,4964,PSN College of Engineering and Technology (Autonomous) Melathediyoor Tirunelveli-627 152,COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),124.0,114.0,104.5,84.5,108.0,—,—
+61,4964,PSN College of Engineering and Technology (Autonomous) Melathediyoor Tirunelveli-627 152,BIO MEDICAL ENGINEERING,101.0*,—,—,—,—,—,—
+61,4964,PSN College of Engineering and Technology (Autonomous) Melathediyoor Tirunelveli-627 152,CIVIL ENGINEERING,95.0*,—,—,—,—,—,—
+61,4964,PSN College of Engineering and Technology (Autonomous) Melathediyoor Tirunelveli-627 152,COMPUTER SCIENCE AND ENGINEERING,145.5,115.5,111.5,101.0,114.0,105.5,—
+61,4964,PSN College of Engineering and Technology (Autonomous) Melathediyoor Tirunelveli-627 152,ELECTRONICS AND COMMUNICATION ENGINEERING,123.5,95.0,88.0*,90.0*,103.5*,—,—
+61,4964,PSN College of Engineering and Technology (Autonomous) Melathediyoor Tirunelveli-627 152,ELECTRICAL AND ELECTRONICS ENGINEERING,109.0,91.5*,—,83.0*,—,—,—
+61,4964,PSN College of Engineering and Technology (Autonomous) Melathediyoor Tirunelveli-627 152,MECHANICAL ENGINEERING,102.0,83.5*,95.5*,80.0*,92.5*,—,—
+61,4964,PSN College of Engineering and Technology (Autonomous) Melathediyoor Tirunelveli-627 152,MARINE ENGINEERING,—,—,—,—,—,—,—
+61,4964,PSN College of Engineering and Technology (Autonomous) Melathediyoor Tirunelveli-627 152,MECHANICAL AND AUTOMATION ENGINEERING,85.0*,—,—,—,—,—,—
+61,4965,"P.S.R. Engineering College (Autonomous), Appayanaickenpatty, Sevalpatty, Sivakasi, Virudhunagar District -626140.",Artificial Intelligence and Data Science,158.0,147.5,155.0*,142.0,89.5,—,—
+61,4965,"P.S.R. Engineering College (Autonomous), Appayanaickenpatty, Sevalpatty, Sivakasi, Virudhunagar District -626140.",BIO MEDICAL ENGINEERING,136.0,109.0,96.0,116.0,84.0*,—,—
+61,4965,"P.S.R. Engineering College (Autonomous), Appayanaickenpatty, Sevalpatty, Sivakasi, Virudhunagar District -626140.",BIO TECHNOLOGY,144.0,124.5,126.0,127.5,95.5*,90.0,—
+61,4965,"P.S.R. Engineering College (Autonomous), Appayanaickenpatty, Sevalpatty, Sivakasi, Virudhunagar District -626140.",CIVIL ENGINEERING,138.0,126.0,—,107.5,89.0*,—,—
+61,4965,"P.S.R. Engineering College (Autonomous), Appayanaickenpatty, Sevalpatty, Sivakasi, Virudhunagar District -626140.",COMPUTER SCIENCE AND ENGINEERING,165.0,149.5,150.0,142.0,95.5,—,—
+61,4965,"P.S.R. Engineering College (Autonomous), Appayanaickenpatty, Sevalpatty, Sivakasi, Virudhunagar District -626140.",ELECTRONICS AND COMMUNICATION ENGINEERING,156.5,145.0,135.5,139.5,90.0*,114.5*,—
+61,4965,"P.S.R. Engineering College (Autonomous), Appayanaickenpatty, Sevalpatty, Sivakasi, Virudhunagar District -626140.",ELECTRICAL AND ELECTRONICS ENGINEERING,141.5,131.5,103.0*,124.0,114.5*,117.0*,—
+61,4965,"P.S.R. Engineering College (Autonomous), Appayanaickenpatty, Sevalpatty, Sivakasi, Virudhunagar District -626140.",INFORMATION TECHNOLOGY,155.5,146.0,148.0,141.0,106.0*,—,—
+61,4965,"P.S.R. Engineering College (Autonomous), Appayanaickenpatty, Sevalpatty, Sivakasi, Virudhunagar District -626140.",MECHANICAL ENGINEERING,128.0,104.0,—,108.0,107.5*,—,—
+61,4966,"PET Engineering College, Thiruchendur Road, Vallioor, Tirunelveli -627117.",Artificial Intelligence and Data Science,148.5,113.5,141.0,115.5*,81.5*,—,—
+61,4966,"PET Engineering College, Thiruchendur Road, Vallioor, Tirunelveli -627117.",CIVIL ENGINEERING,90.5,80.5*,—,—,—,—,—
+61,4966,"PET Engineering College, Thiruchendur Road, Vallioor, Tirunelveli -627117.",COMPUTER SCIENCE AND ENGINEERING,139.5,112.5,134.5,103.5*,81.0*,—,—
+61,4966,"PET Engineering College, Thiruchendur Road, Vallioor, Tirunelveli -627117.",ELECTRONICS AND COMMUNICATION ENGINEERING,143.5,110.0,117.0,101.0*,108.0*,—,—
+61,4966,"PET Engineering College, Thiruchendur Road, Vallioor, Tirunelveli -627117.",ELECTRICAL AND ELECTRONICS ENGINEERING,124.0,101.5,120.0,—,—,—,—
+61,4966,"PET Engineering College, Thiruchendur Road, Vallioor, Tirunelveli -627117.",MECHANICAL ENGINEERING,122.5,101.5,116.5,84.0*,102.0*,—,—
+61,4967,"S. Veerasamy Chettiar College of Engineering and Technology, S.V.Nagar, Puliangudi (Post), Sivagiri (Taluk), Tirunelveli District-627855.",Artificial Intelligence and Data Science,—,—,—,—,—,—,—
+61,4967,"S. Veerasamy Chettiar College of Engineering and Technology, S.V.Nagar, Puliangudi (Post), Sivagiri (Taluk), Tirunelveli District-627855.",CIVIL ENGINEERING,—,—,—,—,—,—,—
+61,4967,"S. Veerasamy Chettiar College of Engineering and Technology, S.V.Nagar, Puliangudi (Post), Sivagiri (Taluk), Tirunelveli District-627855.",COMPUTER SCIENCE AND ENGINEERING,91.5*,—,—,—,—,—,—
+61,4967,"S. Veerasamy Chettiar College of Engineering and Technology, S.V.Nagar, Puliangudi (Post), Sivagiri (Taluk), Tirunelveli District-627855.",ELECTRONICS AND COMMUNICATION ENGINEERING,118.5*,—,—,—,—,—,—
+61,4967,"S. Veerasamy Chettiar College of Engineering and Technology, S.V.Nagar, Puliangudi (Post), Sivagiri (Taluk), Tirunelveli District-627855.",ELECTRICAL AND ELECTRONICS ENGINEERING,106.0*,—,—,—,—,—,—
+61,4967,"S. Veerasamy Chettiar College of Engineering and Technology, S.V.Nagar, Puliangudi (Post), Sivagiri (Taluk), Tirunelveli District-627855.",INFORMATION TECHNOLOGY,—,—,—,—,—,—,—
+62,4967,"S. Veerasamy Chettiar College of Engineering and Technology, S.V.Nagar, Puliangudi (Post), Sivagiri (Taluk), Tirunelveli District-627855.",MECHANICAL ENGINEERING,98.0*,—,—,—,—,—,—
+62,4967,"S. Veerasamy Chettiar College of Engineering and Technology, S.V.Nagar, Puliangudi (Post), Sivagiri (Taluk), Tirunelveli District-627855.",Computer Science and Engineering (Cyber Security),—,—,—,—,—,—,—
+62,4968,"Sardar Raja College of Engineering, Raja Nagar, Alangulam, Tirunelveli Distict-627808.",Artificial Intelligence and Data Science,89.0,87.0*,—,—,85.0*,—,—
+62,4968,"Sardar Raja College of Engineering, Raja Nagar, Alangulam, Tirunelveli Distict-627808.",CIVIL ENGINEERING,—,—,—,—,—,—,—
+62,4968,"Sardar Raja College of Engineering, Raja Nagar, Alangulam, Tirunelveli Distict-627808.",COMPUTER SCIENCE AND ENGINEERING,128.0,91.5*,—,116.0*,88.5*,—,—
+62,4968,"Sardar Raja College of Engineering, Raja Nagar, Alangulam, Tirunelveli Distict-627808.",ELECTRONICS AND COMMUNICATION ENGINEERING,114.0,94.0*,—,108.5*,88.5*,—,—
+62,4968,"Sardar Raja College of Engineering, Raja Nagar, Alangulam, Tirunelveli Distict-627808.",ELECTRICAL AND ELECTRONICS ENGINEERING,103.0,86.5*,—,—,—,—,—
+62,4968,"Sardar Raja College of Engineering, Raja Nagar, Alangulam, Tirunelveli Distict-627808.",MECHANICAL ENGINEERING,98.0*,—,—,—,—,—,—
+62,4968,"Sardar Raja College of Engineering, Raja Nagar, Alangulam, Tirunelveli Distict-627808.",Computer Science and Engineering (Cyber Security),81.0*,—,—,—,—,—,—
+62,4969,"SCAD College of Engineering and Technology, Scad Nagar, Cheranmahadevi, Tirunelveli-627414.",Artificial Intelligence and Data Science,122.5,95.0*,106.0,91.0*,—,—,—
+62,4969,"SCAD College of Engineering and Technology, Scad Nagar, Cheranmahadevi, Tirunelveli-627414.",COMPUTER SCIENCE AND ENGINEERING,135.5,92.0*,108.0,93.5*,97.0*,116.5*,—
+62,4969,"SCAD College of Engineering and Technology, Scad Nagar, Cheranmahadevi, Tirunelveli-627414.",ELECTRONICS AND COMMUNICATION ENGINEERING,137.5,100.5,129.5,113.0*,118.5*,—,—
+62,4969,"SCAD College of Engineering and Technology, Scad Nagar, Cheranmahadevi, Tirunelveli-627414.",ELECTRICAL AND ELECTRONICS ENGINEERING,83.0*,—,—,—,—,—,—
+62,4969,"SCAD College of Engineering and Technology, Scad Nagar, Cheranmahadevi, Tirunelveli-627414.",INFORMATION TECHNOLOGY,125.5,101.5*,116.5,—,—,—,—
+62,4969,"SCAD College of Engineering and Technology, Scad Nagar, Cheranmahadevi, Tirunelveli-627414.",MECHANICAL ENGINEERING,92.5*,—,—,—,—,—,—
+62,4970,"Sree Sowdambika College of Engineering, Chettikurichi, Aruppukottai, Virudhunagar-626134.",Artificial Intelligence and Data Science,117.0,110.5*,85.0,109.0*,—,—,—
+62,4970,"Sree Sowdambika College of Engineering, Chettikurichi, Aruppukottai, Virudhunagar-626134.",CIVIL ENGINEERING,107.5,86.5*,—,89.5*,—,—,—
+62,4970,"Sree Sowdambika College of Engineering, Chettikurichi, Aruppukottai, Virudhunagar-626134.",COMPUTER SCIENCE AND ENGINEERING,146.5,131.5,127.5,104.5,108.0,111.0,—
+62,4970,"Sree Sowdambika College of Engineering, Chettikurichi, Aruppukottai, Virudhunagar-626134.",ELECTRONICS AND COMMUNICATION ENGINEERING,127.0,90.0*,103.5*,96.0*,120.0*,—,—
+62,4970,"Sree Sowdambika College of Engineering, Chettikurichi, Aruppukottai, Virudhunagar-626134.",ELECTRICAL AND ELECTRONICS ENGINEERING,90.5*,—,—,—,—,—,—
+62,4970,"Sree Sowdambika College of Engineering, Chettikurichi, Aruppukottai, Virudhunagar-626134.",MECHANICAL ENGINEERING,89.5,—,—,86.5*,—,—,—
+62,4971,"St. Xavier's Catholic College of Engineering (Autonomous), Chunkankadai, Kanyakumari District, Nagercoil-629003.",Artificial Intelligence and Data Science,167.5,148.5,157.0,107.5,96.0*,—,—
+62,4971,"St. Xavier's Catholic College of Engineering (Autonomous), Chunkankadai, Kanyakumari District, Nagercoil-629003.",CIVIL ENGINEERING,153.0,141.5,148.5,—,—,—,—
+62,4971,"St. Xavier's Catholic College of Engineering (Autonomous), Chunkankadai, Kanyakumari District, Nagercoil-629003.",COMPUTER SCIENCE AND ENGINEERING,177.0,171.5,163.0,138.0,110.5*,—,—
+62,4971,"St. Xavier's Catholic College of Engineering (Autonomous), Chunkankadai, Kanyakumari District, Nagercoil-629003.",ELECTRONICS AND COMMUNICATION ENGINEERING,173.5,163.0,157.0,128.0*,121.5*,—,—
+62,4971,"St. Xavier's Catholic College of Engineering (Autonomous), Chunkankadai, Kanyakumari District, Nagercoil-629003.",ELECTRICAL AND ELECTRONICS ENGINEERING,156.5,141.0,152.5,136.5,—,—,—
+62,4971,"St. Xavier's Catholic College of Engineering (Autonomous), Chunkankadai, Kanyakumari District, Nagercoil-629003.",INFORMATION TECHNOLOGY,165.0,160.5,160.5,109.0,108.5*,—,—
+62,4971,"St. Xavier's Catholic College of Engineering (Autonomous), Chunkankadai, Kanyakumari District, Nagercoil-629003.",MECHANICAL ENGINEERING,133.5,112.5,128.0,100.5*,106.0*,—,—
+62,4971,"St. Xavier's Catholic College of Engineering (Autonomous), Chunkankadai, Kanyakumari District, Nagercoil-629003.",Computer Science and Engineering (Cyber Security),169.0,158.5,162.0,124.0,137.5*,—,123.5
+62,4975,"Dr G.U. Pope College of Engineering, Pope Nagar, Sawyerpuram, Thoothukudi-628251.",CIVIL ENGINEERING,83.5*,—,—,—,—,—,—
+62,4975,"Dr G.U. Pope College of Engineering, Pope Nagar, Sawyerpuram, Thoothukudi-628251.",COMPUTER SCIENCE AND ENGINEERING,132.5,80.5*,114.5*,92.5*,96.5*,—,—
+62,4975,"Dr G.U. Pope College of Engineering, Pope Nagar, Sawyerpuram, Thoothukudi-628251.",ELECTRONICS AND COMMUNICATION ENGINEERING,135.0,88.0*,—,98.5*,84.0*,—,—
+62,4975,"Dr G.U. Pope College of Engineering, Pope Nagar, Sawyerpuram, Thoothukudi-628251.",ELECTRICAL AND ELECTRONICS ENGINEERING,91.5,83.0*,—,—,—,—,—
+62,4975,"Dr G.U. Pope College of Engineering, Pope Nagar, Sawyerpuram, Thoothukudi-628251.",MECHANICAL ENGINEERING,100.5,90.5*,—,—,—,—,—
+62,4976,"Infant Jesus College of Engineering, Kamarajar Nagar, Tirunelveli-Thoothukudi Highway (NH-7A), Keelavallanadu Village, Ellanayakkan Patti Post, Srivaikundam Taluk, Thoothukudi District-628851.",Artificial Intelligence and Data Science,101.5*,—,—,—,—,—,—
+62,4976,"Infant Jesus College of Engineering, Kamarajar Nagar, Tirunelveli-Thoothukudi Highway (NH-7A), Keelavallanadu Village, Ellanayakkan Patti Post, Srivaikundam Taluk, Thoothukudi District-628851.",AERONAUTICAL ENGINEERING,92.0,—,—,—,—,—,—
+62,4976,"Infant Jesus College of Engineering, Kamarajar Nagar, Tirunelveli-Thoothukudi Highway (NH-7A), Keelavallanadu Village, Ellanayakkan Patti Post, Srivaikundam Taluk, Thoothukudi District-628851.",AGRICULTURAL ENGINEERING,94.0*,—,—,—,—,—,—
+62,4976,"Infant Jesus College of Engineering, Kamarajar Nagar, Tirunelveli-Thoothukudi Highway (NH-7A), Keelavallanadu Village, Ellanayakkan Patti Post, Srivaikundam Taluk, Thoothukudi District-628851.",COMPUTER SCIENCE AND ENGINEERING,112.0,98.5*,—,110.0*,93.5*,—,—
+62,4976,"Infant Jesus College of Engineering, Kamarajar Nagar, Tirunelveli-Thoothukudi Highway (NH-7A), Keelavallanadu Village, Ellanayakkan Patti Post, Srivaikundam Taluk, Thoothukudi District-628851.",ELECTRONICS AND COMMUNICATION ENGINEERING,104.0*,—,—,—,—,—,—
+62,4976,"Infant Jesus College of Engineering, Kamarajar Nagar, Tirunelveli-Thoothukudi Highway (NH-7A), Keelavallanadu Village, Ellanayakkan Patti Post, Srivaikundam Taluk, Thoothukudi District-628851.",ELECTRICAL AND ELECTRONICS ENGINEERING,98.5,—,—,—,94.5*,—,—
+62,4976,"Infant Jesus College of Engineering, Kamarajar Nagar, Tirunelveli-Thoothukudi Highway (NH-7A), Keelavallanadu Village, Ellanayakkan Patti Post, Srivaikundam Taluk, Thoothukudi District-628851.",MECHANICAL ENGINEERING,123.5*,—,—,—,—,—,—
+62,4977,"Narayanaguru College of Engineering, Chittadavu, Manjalumoodu, Vilavancode Taluk, Kuzhithurai, Kanyakumari District-629151.",Artificial Intelligence and Data Science,85.5*,—,—,—,—,—,—
+62,4977,"Narayanaguru College of Engineering, Chittadavu, Manjalumoodu, Vilavancode Taluk, Kuzhithurai, Kanyakumari District-629151.",CIVIL ENGINEERING,86.5*,—,—,—,—,—,—
+62,4977,"Narayanaguru College of Engineering, Chittadavu, Manjalumoodu, Vilavancode Taluk, Kuzhithurai, Kanyakumari District-629151.",COMPUTER SCIENCE AND ENGINEERING,94.0*,—,—,—,—,—,—
+62,4977,"Narayanaguru College of Engineering, Chittadavu, Manjalumoodu, Vilavancode Taluk, Kuzhithurai, Kanyakumari District-629151.",ELECTRONICS AND COMMUNICATION ENGINEERING,100.0*,—,—,—,—,—,—
+62,4977,"Narayanaguru College of Engineering, Chittadavu, Manjalumoodu, Vilavancode Taluk, Kuzhithurai, Kanyakumari District-629151.",ELECTRICAL AND ELECTRONICS ENGINEERING,107.5*,—,—,—,—,—,—
+62,4977,"Narayanaguru College of Engineering, Chittadavu, Manjalumoodu, Vilavancode Taluk, Kuzhithurai, Kanyakumari District-629151.",INFORMATION TECHNOLOGY,95.0*,—,—,—,—,—,—
+62,4977,"Narayanaguru College of Engineering, Chittadavu, Manjalumoodu, Vilavancode Taluk, Kuzhithurai, Kanyakumari District-629151.",MECHANICAL ENGINEERING,106.0*,—,—,—,—,—,—
+62,4978,"Udaya School of Engineering, Udaya Nagar, Vellamadi Junction,Ammandivilai Post, Kanyakumarai District, Nagercoil-629204.",AERONAUTICAL ENGINEERING,93.0,92.5*,—,85.0*,—,—,—
+62,4978,"Udaya School of Engineering, Udaya Nagar, Vellamadi Junction,Ammandivilai Post, Kanyakumarai District, Nagercoil-629204.",AGRICULTURAL ENGINEERING,96.5*,—,—,—,—,—,—
+63,4978,"Udaya School of Engineering, Udaya Nagar, Vellamadi Junction,Ammandivilai Post, Kanyakumarai District, Nagercoil-629204.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),111.5,83.0,—,92.5*,—,—,—
+63,4978,"Udaya School of Engineering, Udaya Nagar, Vellamadi Junction,Ammandivilai Post, Kanyakumarai District, Nagercoil-629204.",BIO MEDICAL ENGINEERING,84.5*,—,—,—,—,—,—
+63,4978,"Udaya School of Engineering, Udaya Nagar, Vellamadi Junction,Ammandivilai Post, Kanyakumarai District, Nagercoil-629204.",BIO TECHNOLOGY,81.5*,—,—,—,—,—,—
+63,4978,"Udaya School of Engineering, Udaya Nagar, Vellamadi Junction,Ammandivilai Post, Kanyakumarai District, Nagercoil-629204.",CIVIL ENGINEERING,—,—,—,—,—,—,—
+63,4978,"Udaya School of Engineering, Udaya Nagar, Vellamadi Junction,Ammandivilai Post, Kanyakumarai District, Nagercoil-629204.",COMPUTER SCIENCE AND ENGINEERING,119.5,109.0*,—,94.5*,113.5*,—,—
+63,4978,"Udaya School of Engineering, Udaya Nagar, Vellamadi Junction,Ammandivilai Post, Kanyakumarai District, Nagercoil-629204.",ELECTRONICS AND COMMUNICATION ENGINEERING,83.5*,—,—,—,—,—,—
+63,4978,"Udaya School of Engineering, Udaya Nagar, Vellamadi Junction,Ammandivilai Post, Kanyakumarai District, Nagercoil-629204.",ELECTRICAL AND ELECTRONICS ENGINEERING,85.5*,—,—,—,—,—,—
+63,4978,"Udaya School of Engineering, Udaya Nagar, Vellamadi Junction,Ammandivilai Post, Kanyakumarai District, Nagercoil-629204.",MECHANICAL ENGINEERING,83.0*,—,—,—,—,—,—
+63,4978,"Udaya School of Engineering, Udaya Nagar, Vellamadi Junction,Ammandivilai Post, Kanyakumarai District, Nagercoil-629204.",ROBOTICS AND AUTOMATION,—,—,—,—,—,—,—
+63,4978,"Udaya School of Engineering, Udaya Nagar, Vellamadi Junction,Ammandivilai Post, Kanyakumarai District, Nagercoil-629204.",Computer Science and Engineering (Cyber Security),112.5,90.0*,—,104.0*,—,—,—
+63,4980,"Einstein College of Engineering, Sir.C.V.Raman Nagar, Seethaparpanallur, Tirunelveli-627012.",Artificial Intelligence and Data Science,149.0,134.5,113.5,128.0*,114.0*,—,—
+63,4980,"Einstein College of Engineering, Sir.C.V.Raman Nagar, Seethaparpanallur, Tirunelveli-627012.",CIVIL ENGINEERING,126.0,108.0,—,—,—,—,—
+63,4980,"Einstein College of Engineering, Sir.C.V.Raman Nagar, Seethaparpanallur, Tirunelveli-627012.",COMPUTER SCIENCE AND ENGINEERING,147.5,129.5,119.0,89.0*,89.5*,—,—
+63,4980,"Einstein College of Engineering, Sir.C.V.Raman Nagar, Seethaparpanallur, Tirunelveli-627012.",ELECTRONICS AND COMMUNICATION ENGINEERING,144.5,127.5,126.0,104.0*,—,—,—
+63,4980,"Einstein College of Engineering, Sir.C.V.Raman Nagar, Seethaparpanallur, Tirunelveli-627012.",ELECTRICAL AND ELECTRONICS ENGINEERING,127.0,110.0,—,119.0*,87.0*,—,—
+63,4980,"Einstein College of Engineering, Sir.C.V.Raman Nagar, Seethaparpanallur, Tirunelveli-627012.",MECHANICAL ENGINEERING,105.5,82.0,—,—,100.5*,—,—
+63,4981,"Ponjesly College of Engineering, Near Parvathipuram, Alamparai, Veturnimadam Post, Nagercoil-629003.",Artificial Intelligence and Data Science,147.5,139.5,143.5,86.5*,139.5*,—,—
+63,4981,"Ponjesly College of Engineering, Near Parvathipuram, Alamparai, Veturnimadam Post, Nagercoil-629003.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),146.5,137.0,145.0,104.5*,—,—,—
+63,4981,"Ponjesly College of Engineering, Near Parvathipuram, Alamparai, Veturnimadam Post, Nagercoil-629003.",CIVIL ENGINEERING,112.5,91.5*,—,—,84.5*,—,—
+63,4981,"Ponjesly College of Engineering, Near Parvathipuram, Alamparai, Veturnimadam Post, Nagercoil-629003.",COMPUTER SCIENCE AND ENGINEERING,158.5,139.5,149.0,116.5*,120.0*,—,—
+63,4981,"Ponjesly College of Engineering, Near Parvathipuram, Alamparai, Veturnimadam Post, Nagercoil-629003.",ELECTRONICS AND COMMUNICATION ENGINEERING,156.0,139.5,134.0,104.5*,128.0*,—,—
+63,4981,"Ponjesly College of Engineering, Near Parvathipuram, Alamparai, Veturnimadam Post, Nagercoil-629003.",ELECTRICAL AND ELECTRONICS ENGINEERING,131.0,109.0,117.5,110.0*,—,—,—
+63,4981,"Ponjesly College of Engineering, Near Parvathipuram, Alamparai, Veturnimadam Post, Nagercoil-629003.",INFORMATION TECHNOLOGY,146.0,137.0,142.5,122.0*,112.5*,—,—
+63,4981,"Ponjesly College of Engineering, Near Parvathipuram, Alamparai, Veturnimadam Post, Nagercoil-629003.",MECHANICAL ENGINEERING,126.5,109.0,125.5*,105.0*,—,—,—
+63,4982,"Vins Christian College of Engineering, Vins Nagar, Chunkankadai, Nagercoil, Kanyakumari-629807.",Artificial Intelligence and Data Science,105.0*,—,—,—,—,—,—
+63,4982,"Vins Christian College of Engineering, Vins Nagar, Chunkankadai, Nagercoil, Kanyakumari-629807.",AGRICULTURAL ENGINEERING,—,—,—,—,—,—,—
+63,4982,"Vins Christian College of Engineering, Vins Nagar, Chunkankadai, Nagercoil, Kanyakumari-629807.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),120.0*,—,—,—,—,—,—
+63,4982,"Vins Christian College of Engineering, Vins Nagar, Chunkankadai, Nagercoil, Kanyakumari-629807.",CIVIL ENGINEERING,137.5*,—,—,—,—,—,—
+63,4982,"Vins Christian College of Engineering, Vins Nagar, Chunkankadai, Nagercoil, Kanyakumari-629807.",COMPUTER SCIENCE AND ENGINEERING,119.5,108.5*,—,—,111.5*,—,—
+63,4982,"Vins Christian College of Engineering, Vins Nagar, Chunkankadai, Nagercoil, Kanyakumari-629807.",ELECTRONICS AND COMMUNICATION ENGINEERING,106.0*,—,—,—,—,—,—
+63,4982,"Vins Christian College of Engineering, Vins Nagar, Chunkankadai, Nagercoil, Kanyakumari-629807.",ELECTRICAL AND ELECTRONICS ENGINEERING,—,—,—,—,—,—,—
+63,4982,"Vins Christian College of Engineering, Vins Nagar, Chunkankadai, Nagercoil, Kanyakumari-629807.",INFORMATION TECHNOLOGY,112.0*,—,—,—,—,—,—
+63,4982,"Vins Christian College of Engineering, Vins Nagar, Chunkankadai, Nagercoil, Kanyakumari-629807.",MECHANICAL ENGINEERING,102.0*,—,—,—,—,—,—
+63,4982,"Vins Christian College of Engineering, Vins Nagar, Chunkankadai, Nagercoil, Kanyakumari-629807.",Computer Science and Engineering (Cyber Security),—,—,—,—,—,—,—
+63,4983,"Lord Jegannath College of Engineering and Technology, PSN Nagar, Ramanathichanputhur, Marungoor, Kanyakumari District, Nagercoil-629402.",AERONAUTICAL ENGINEERING,79.5*,—,—,—,—,—,—
+63,4983,"Lord Jegannath College of Engineering and Technology, PSN Nagar, Ramanathichanputhur, Marungoor, Kanyakumari District, Nagercoil-629402.",AGRICULTURAL ENGINEERING,94.0*,—,—,—,—,—,—
+63,4983,"Lord Jegannath College of Engineering and Technology, PSN Nagar, Ramanathichanputhur, Marungoor, Kanyakumari District, Nagercoil-629402.",CIVIL ENGINEERING,—,—,—,—,—,—,—
+63,4983,"Lord Jegannath College of Engineering and Technology, PSN Nagar, Ramanathichanputhur, Marungoor, Kanyakumari District, Nagercoil-629402.",COMPUTER SCIENCE AND ENGINEERING,86.5*,—,—,—,—,—,—
+63,4983,"Lord Jegannath College of Engineering and Technology, PSN Nagar, Ramanathichanputhur, Marungoor, Kanyakumari District, Nagercoil-629402.",ELECTRONICS AND COMMUNICATION ENGINEERING,95.5*,—,—,—,—,—,—
+63,4983,"Lord Jegannath College of Engineering and Technology, PSN Nagar, Ramanathichanputhur, Marungoor, Kanyakumari District, Nagercoil-629402.",ELECTRICAL AND ELECTRONICS ENGINEERING,—,—,—,—,—,—,—
+63,4983,"Lord Jegannath College of Engineering and Technology, PSN Nagar, Ramanathichanputhur, Marungoor, Kanyakumari District, Nagercoil-629402.",MECHANICAL ENGINEERING,—,—,—,—,—,—,—
+63,4983,"Lord Jegannath College of Engineering and Technology, PSN Nagar, Ramanathichanputhur, Marungoor, Kanyakumari District, Nagercoil-629402.",ROBOTICS AND AUTOMATION,117.5*,—,—,—,—,—,—
+63,4984,"MARTHANDAM COLLEGE OF ENGINEERING AND TECHNOLOGY, P.M.VILLAGE ROAD, KUTTAKUZHI, VEEYANNOOR POST, MARTHANDAM, KANYAKUMARI DISTRICT - 629177",Artificial Intelligence and Data Science,92.5*,—,—,—,—,—,—
+63,4984,"MARTHANDAM COLLEGE OF ENGINEERING AND TECHNOLOGY, P.M.VILLAGE ROAD, KUTTAKUZHI, VEEYANNOOR POST, MARTHANDAM, KANYAKUMARI DISTRICT - 629177",CIVIL ENGINEERING,—,—,—,—,—,—,—
+63,4984,"MARTHANDAM COLLEGE OF ENGINEERING AND TECHNOLOGY, P.M.VILLAGE ROAD, KUTTAKUZHI, VEEYANNOOR POST, MARTHANDAM, KANYAKUMARI DISTRICT - 629177",COMPUTER SCIENCE AND ENGINEERING,99.0*,—,—,—,—,—,—
+63,4984,"MARTHANDAM COLLEGE OF ENGINEERING AND TECHNOLOGY, P.M.VILLAGE ROAD, KUTTAKUZHI, VEEYANNOOR POST, MARTHANDAM, KANYAKUMARI DISTRICT - 629177",ELECTRONICS AND COMMUNICATION ENGINEERING,91.5*,—,—,—,—,—,—
+63,4984,"MARTHANDAM COLLEGE OF ENGINEERING AND TECHNOLOGY, P.M.VILLAGE ROAD, KUTTAKUZHI, VEEYANNOOR POST, MARTHANDAM, KANYAKUMARI DISTRICT - 629177",ELECTRICAL AND ELECTRONICS ENGINEERING,103.0*,—,—,—,—,—,—
+63,4984,"MARTHANDAM COLLEGE OF ENGINEERING AND TECHNOLOGY, P.M.VILLAGE ROAD, KUTTAKUZHI, VEEYANNOOR POST, MARTHANDAM, KANYAKUMARI DISTRICT - 629177",INFORMATION TECHNOLOGY,85.5*,—,—,—,—,—,—
+63,4984,"MARTHANDAM COLLEGE OF ENGINEERING AND TECHNOLOGY, P.M.VILLAGE ROAD, KUTTAKUZHI, VEEYANNOOR POST, MARTHANDAM, KANYAKUMARI DISTRICT - 629177",MECHANICAL ENGINEERING,90.0*,—,—,—,—,—,—
+63,4986,"NOORUL ISLAM COLLEGE OF ENGINEERING AND TECHNOLOGY, PUNKARAI, THIRUVITHANCODE (PO), KANYAKUMARI-629174.",Artificial Intelligence and Data Science,110.0*,—,—,—,—,—,—
+64,4986,"NOORUL ISLAM COLLEGE OF ENGINEERING AND TECHNOLOGY, PUNKARAI, THIRUVITHANCODE (PO), KANYAKUMARI-629174.",COMPUTER SCIENCE AND ENGINEERING,98.0,86.0*,91.0*,—,—,—,—
+64,4986,"NOORUL ISLAM COLLEGE OF ENGINEERING AND TECHNOLOGY, PUNKARAI, THIRUVITHANCODE (PO), KANYAKUMARI-629174.",ELECTRONICS AND COMMUNICATION ENGINEERING,139.5*,—,—,—,—,—,—
+64,4986,"NOORUL ISLAM COLLEGE OF ENGINEERING AND TECHNOLOGY, PUNKARAI, THIRUVITHANCODE (PO), KANYAKUMARI-629174.",ELECTRICAL AND ELECTRONICS ENGINEERING,134.5*,—,—,—,—,—,—
+64,4986,"NOORUL ISLAM COLLEGE OF ENGINEERING AND TECHNOLOGY, PUNKARAI, THIRUVITHANCODE (PO), KANYAKUMARI-629174.",INFORMATION TECHNOLOGY,—,—,—,—,—,—,—
+64,4986,"NOORUL ISLAM COLLEGE OF ENGINEERING AND TECHNOLOGY, PUNKARAI, THIRUVITHANCODE (PO), KANYAKUMARI-629174.",MECHANICAL ENGINEERING,100.0*,—,—,—,—,—,—
+64,4989,"PSN Engineering College, Melathediyoor, Palayamkottai, Tirunelveli-627152.",Artificial Intelligence and Data Science,143.0,119.5,129.5*,112.5*,86.5*,—,—
+64,4989,"PSN Engineering College, Melathediyoor, Palayamkottai, Tirunelveli-627152.",AGRICULTURAL ENGINEERING,100.5*,—,—,—,—,—,—
+64,4989,"PSN Engineering College, Melathediyoor, Palayamkottai, Tirunelveli-627152.",AUTOMOBILE ENGINEERING,91.0*,—,—,—,—,—,—
+64,4989,"PSN Engineering College, Melathediyoor, Palayamkottai, Tirunelveli-627152.",BIO MEDICAL ENGINEERING,102.5,84.0*,—,97.0*,—,—,—
+64,4989,"PSN Engineering College, Melathediyoor, Palayamkottai, Tirunelveli-627152.",CIVIL ENGINEERING,86.5*,—,—,—,—,—,—
+64,4989,"PSN Engineering College, Melathediyoor, Palayamkottai, Tirunelveli-627152.",COMPUTER SCIENCE AND ENGINEERING,131.0,116.0,116.5*,98.5*,89.0*,—,—
+64,4989,"PSN Engineering College, Melathediyoor, Palayamkottai, Tirunelveli-627152.",ELECTRONICS AND COMMUNICATION ENGINEERING,116.5,87.0,106.5*,80.0*,—,116.5*,—
+64,4989,"PSN Engineering College, Melathediyoor, Palayamkottai, Tirunelveli-627152.",INFORMATION TECHNOLOGY,119.0,96.5*,84.0,92.0*,101.0*,—,—
+64,4989,"PSN Engineering College, Melathediyoor, Palayamkottai, Tirunelveli-627152.",MECHANICAL ENGINEERING,84.0*,—,—,—,—,—,—
+64,4992,"Bethlahem Institute of Engineering, Nadutheri, Karungal, Kanyakumari-629157.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),124.0,87.5,95.5,100.0*,100.5*,—,—
+64,4992,"Bethlahem Institute of Engineering, Nadutheri, Karungal, Kanyakumari-629157.",BIO MEDICAL ENGINEERING,96.5*,—,—,—,—,—,—
+64,4992,"Bethlahem Institute of Engineering, Nadutheri, Karungal, Kanyakumari-629157.",CIVIL ENGINEERING,109.0,97.5*,—,—,—,—,—
+64,4992,"Bethlahem Institute of Engineering, Nadutheri, Karungal, Kanyakumari-629157.",COMPUTER SCIENCE AND ENGINEERING,124.5,89.0,111.0*,98.0*,93.0*,—,—
+64,4992,"Bethlahem Institute of Engineering, Nadutheri, Karungal, Kanyakumari-629157.",ELECTRONICS AND COMMUNICATION ENGINEERING,123.5,85.0*,—,—,119.0*,—,104.5
+64,4992,"Bethlahem Institute of Engineering, Nadutheri, Karungal, Kanyakumari-629157.",ELECTRICAL AND ELECTRONICS ENGINEERING,113.0*,—,—,—,—,—,—
+64,4992,"Bethlahem Institute of Engineering, Nadutheri, Karungal, Kanyakumari-629157.",INFORMATION TECHNOLOGY,104.0,94.5*,—,—,—,—,—
+64,4992,"Bethlahem Institute of Engineering, Nadutheri, Karungal, Kanyakumari-629157.",MECHANICAL ENGINEERING,93.5,87.0*,—,—,—,—,—
+64,4993,"Loyola Institute of Technology and Science, P.Bo. No.2, Thovalai - Rajavoor Road, Loyola Nagar, Theroor Village, Thovalai, Kanyakumari District-629302.",Artificial Intelligence and Data Science,121.5,93.5,—,111.0*,—,—,—
+64,4993,"Loyola Institute of Technology and Science, P.Bo. No.2, Thovalai - Rajavoor Road, Loyola Nagar, Theroor Village, Thovalai, Kanyakumari District-629302.",AGRICULTURAL ENGINEERING,119.0*,—,—,—,—,—,—
+64,4993,"Loyola Institute of Technology and Science, P.Bo. No.2, Thovalai - Rajavoor Road, Loyola Nagar, Theroor Village, Thovalai, Kanyakumari District-629302.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),110.5,92.5*,101.5,99.5*,—,—,—
+64,4993,"Loyola Institute of Technology and Science, P.Bo. No.2, Thovalai - Rajavoor Road, Loyola Nagar, Theroor Village, Thovalai, Kanyakumari District-629302.",BIO MEDICAL ENGINEERING,103.0,—,—,—,—,—,—
+64,4993,"Loyola Institute of Technology and Science, P.Bo. No.2, Thovalai - Rajavoor Road, Loyola Nagar, Theroor Village, Thovalai, Kanyakumari District-629302.",COMPUTER SCIENCE AND ENGINEERING,123.0,85.0*,93.5*,101.0*,—,—,—
+64,4993,"Loyola Institute of Technology and Science, P.Bo. No.2, Thovalai - Rajavoor Road, Loyola Nagar, Theroor Village, Thovalai, Kanyakumari District-629302.",ELECTRONICS AND COMMUNICATION ENGINEERING,114.0,96.5*,110.5*,87.5*,110.5*,—,—
+64,4993,"Loyola Institute of Technology and Science, P.Bo. No.2, Thovalai - Rajavoor Road, Loyola Nagar, Theroor Village, Thovalai, Kanyakumari District-629302.",ELECTRICAL AND ELECTRONICS ENGINEERING,90.5,—,—,—,—,—,—
+64,4993,"Loyola Institute of Technology and Science, P.Bo. No.2, Thovalai - Rajavoor Road, Loyola Nagar, Theroor Village, Thovalai, Kanyakumari District-629302.",INFORMATION TECHNOLOGY,105.0,86.5*,—,97.0*,99.0*,—,—
+64,4993,"Loyola Institute of Technology and Science, P.Bo. No.2, Thovalai - Rajavoor Road, Loyola Nagar, Theroor Village, Thovalai, Kanyakumari District-629302.",MECHANICAL ENGINEERING,93.0,85.5*,—,—,—,—,—
+64,4994,"J.P. College of Engineering, College Road, Ayikudy, Tenkasi Taluk, Tirunelveli District-627852.",Artificial Intelligence and Data Science,137.0,95.5,127.5,95.0*,89.5*,—,—
+64,4994,"J.P. College of Engineering, College Road, Ayikudy, Tenkasi Taluk, Tirunelveli District-627852.",CIVIL ENGINEERING,113.5,83.5*,107.0,91.0*,87.5*,—,—
+64,4994,"J.P. College of Engineering, College Road, Ayikudy, Tenkasi Taluk, Tirunelveli District-627852.",COMPUTER SCIENCE AND ENGINEERING,139.5,114.0,117.0,99.0*,96.5*,—,—
+64,4994,"J.P. College of Engineering, College Road, Ayikudy, Tenkasi Taluk, Tirunelveli District-627852.",ELECTRONICS AND COMMUNICATION ENGINEERING,126.5,88.0*,119.5,99.5*,93.5*,—,—
+64,4994,"J.P. College of Engineering, College Road, Ayikudy, Tenkasi Taluk, Tirunelveli District-627852.",ELECTRICAL AND ELECTRONICS ENGINEERING,111.0,100.5*,—,—,—,—,—
+64,4994,"J.P. College of Engineering, College Road, Ayikudy, Tenkasi Taluk, Tirunelveli District-627852.",INFORMATION TECHNOLOGY,137.5,111.5,115.5,83.0*,105.0*,—,—
+64,4994,"J.P. College of Engineering, College Road, Ayikudy, Tenkasi Taluk, Tirunelveli District-627852.",MECHANICAL ENGINEERING,104.0,—,90.0,89.5*,—,—,—
+64,4996,"Sri Vidya College of Engineering and Technology, Sivakasi Main Road, P.Kumaralingapuram, Virudhunagar-626005.",Artificial Intelligence and Data Science,97.0,91.0*,—,88.0*,—,—,—
+64,4996,"Sri Vidya College of Engineering and Technology, Sivakasi Main Road, P.Kumaralingapuram, Virudhunagar-626005.",COMPUTER SCIENCE AND BUSSINESS SYSTEM,—,—,—,—,—,—,—
+64,4996,"Sri Vidya College of Engineering and Technology, Sivakasi Main Road, P.Kumaralingapuram, Virudhunagar-626005.",CIVIL ENGINEERING,116.5*,—,—,—,—,—,—
+64,4996,"Sri Vidya College of Engineering and Technology, Sivakasi Main Road, P.Kumaralingapuram, Virudhunagar-626005.",COMPUTER SCIENCE AND ENGINEERING,105.0,—,—,—,—,96.0,—
+64,4996,"Sri Vidya College of Engineering and Technology, Sivakasi Main Road, P.Kumaralingapuram, Virudhunagar-626005.",ELECTRONICS AND COMMUNICATION ENGINEERING,102.0*,—,—,—,—,—,—
+64,4996,"Sri Vidya College of Engineering and Technology, Sivakasi Main Road, P.Kumaralingapuram, Virudhunagar-626005.",ELECTRICAL AND ELECTRONICS ENGINEERING,128.0*,—,—,—,—,—,—
+64,4996,"Sri Vidya College of Engineering and Technology, Sivakasi Main Road, P.Kumaralingapuram, Virudhunagar-626005.",MECHANICAL ENGINEERING,119.0*,—,—,—,—,—,—
+64,4998,"Mahakavi Bharathiyar College of Engineering and Technology, Kovil Nagar, Vasudevanallur, Sivagiri Taluk, Tirunelveli District -627758.",CIVIL ENGINEERING,—,—,—,—,—,—,—
+64,4998,"Mahakavi Bharathiyar College of Engineering and Technology, Kovil Nagar, Vasudevanallur, Sivagiri Taluk, Tirunelveli District -627758.",COMPUTER SCIENCE AND ENGINEERING,—,—,—,—,—,—,—
+64,4998,"Mahakavi Bharathiyar College of Engineering and Technology, Kovil Nagar, Vasudevanallur, Sivagiri Taluk, Tirunelveli District -627758.",ELECTRONICS AND COMMUNICATION ENGINEERING,—,—,—,—,—,—,—
+64,4998,"Mahakavi Bharathiyar College of Engineering and Technology, Kovil Nagar, Vasudevanallur, Sivagiri Taluk, Tirunelveli District -627758.",ELECTRICAL AND ELECTRONICS ENGINEERING,—,—,—,—,—,—,—
+64,4998,"Mahakavi Bharathiyar College of Engineering and Technology, Kovil Nagar, Vasudevanallur, Sivagiri Taluk, Tirunelveli District -627758.",MECHANICAL ENGINEERING,—,—,—,—,—,—,—
+65,4999,"Annai Vailankanni College of Engineering, AVK Nagar, Pothaiyadisalai Pottalkulam, Azhagappapuram PO, Kanyakumari District, Nagercoil-629401.",Artificial Intelligence and Data Science,130.0,97.0,—,93.0*,87.5,101.5*,—
+65,4999,"Annai Vailankanni College of Engineering, AVK Nagar, Pothaiyadisalai Pottalkulam, Azhagappapuram PO, Kanyakumari District, Nagercoil-629401.",BIO MEDICAL ENGINEERING,104.5,92.5*,—,—,—,—,—
+65,4999,"Annai Vailankanni College of Engineering, AVK Nagar, Pothaiyadisalai Pottalkulam, Azhagappapuram PO, Kanyakumari District, Nagercoil-629401.",COMPUTER SCIENCE AND ENGINEERING,141.0,104.0,—,94.5*,105.5*,99.5*,—
+65,4999,"Annai Vailankanni College of Engineering, AVK Nagar, Pothaiyadisalai Pottalkulam, Azhagappapuram PO, Kanyakumari District, Nagercoil-629401.",ELECTRONICS AND COMMUNICATION ENGINEERING,127.5,90.0*,—,98.0*,80.5*,—,—
+65,4999,"Annai Vailankanni College of Engineering, AVK Nagar, Pothaiyadisalai Pottalkulam, Azhagappapuram PO, Kanyakumari District, Nagercoil-629401.",MECHANICAL ENGINEERING,94.5,—,—,—,—,—,—
+65,5502,"Sri Raajaraajan College of Engineering and Technology, No.146/4B1, Amaravathi Village, Amaravathypudhur(Post), Karaikudi Taluk, Sivagangai District-630301.",Artificial Intelligence and Data Science,134.5,109.5*,132.5,88.0*,—,—,—
+65,5502,"Sri Raajaraajan College of Engineering and Technology, No.146/4B1, Amaravathi Village, Amaravathypudhur(Post), Karaikudi Taluk, Sivagangai District-630301.",AGRICULTURAL ENGINEERING,112.5*,—,—,—,—,—,—
+65,5502,"Sri Raajaraajan College of Engineering and Technology, No.146/4B1, Amaravathi Village, Amaravathypudhur(Post), Karaikudi Taluk, Sivagangai District-630301.",CIVIL ENGINEERING,119.5,84.5,82.0,118.0*,—,—,—
+65,5502,"Sri Raajaraajan College of Engineering and Technology, No.146/4B1, Amaravathi Village, Amaravathypudhur(Post), Karaikudi Taluk, Sivagangai District-630301.",COMPUTER SCIENCE AND ENGINEERING,131.5,90.5,86.5*,89.5*,96.0*,92.0*,—
+65,5502,"Sri Raajaraajan College of Engineering and Technology, No.146/4B1, Amaravathi Village, Amaravathypudhur(Post), Karaikudi Taluk, Sivagangai District-630301.",ELECTRONICS AND COMMUNICATION ENGINEERING,109.5,—,90.5,—,—,—,—
+65,5502,"Sri Raajaraajan College of Engineering and Technology, No.146/4B1, Amaravathi Village, Amaravathypudhur(Post), Karaikudi Taluk, Sivagangai District-630301.",ELECTRICAL AND ELECTRONICS ENGINEERING,109.5,82.0*,—,—,—,—,—
+65,5502,"Sri Raajaraajan College of Engineering and Technology, No.146/4B1, Amaravathi Village, Amaravathypudhur(Post), Karaikudi Taluk, Sivagangai District-630301.",MECHANICAL ENGINEERING,103.0,91.0*,—,—,—,—,—
+65,5530,"SSM Institute of Engineering and Technology (Autonomous), Kuttathupatti Village, Begambur Post, Dindigul Taluk & District-624002.",Artificial Intelligence and Data Science,163.0,151.0,160.0,136.0,123.0,—,—
+65,5530,"SSM Institute of Engineering and Technology (Autonomous), Kuttathupatti Village, Begambur Post, Dindigul Taluk & District-624002.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),148.0,143.0,132.5,127.5,85.0*,109.0,—
+65,5530,"SSM Institute of Engineering and Technology (Autonomous), Kuttathupatti Village, Begambur Post, Dindigul Taluk & District-624002.",COMPUTER SCIENCE AND BUSSINESS SYSTEM,142.0,136.5,138.5,110.5,105.0*,—,—
+65,5530,"SSM Institute of Engineering and Technology (Autonomous), Kuttathupatti Village, Begambur Post, Dindigul Taluk & District-624002.",CIVIL ENGINEERING,127.5,111.0,126.0,91.0*,98.0,—,—
+65,5530,"SSM Institute of Engineering and Technology (Autonomous), Kuttathupatti Village, Begambur Post, Dindigul Taluk & District-624002.",COMPUTER SCIENCE AND ENGINEERING,170.5,165.5,170.5,138.5,129.5,109.5,—
+65,5530,"SSM Institute of Engineering and Technology (Autonomous), Kuttathupatti Village, Begambur Post, Dindigul Taluk & District-624002.",ELECTRONICS AND COMMUNICATION ENGINEERING,161.0,150.0,154.5,144.5,120.5,129.5,—
+65,5530,"SSM Institute of Engineering and Technology (Autonomous), Kuttathupatti Village, Begambur Post, Dindigul Taluk & District-624002.",ELECTRICAL AND ELECTRONICS ENGINEERING,137.0,118.5,125.5,114.5,104.0*,—,—
+65,5530,"SSM Institute of Engineering and Technology (Autonomous), Kuttathupatti Village, Begambur Post, Dindigul Taluk & District-624002.",INFORMATION TECHNOLOGY,160.5,151.0,159.5,141.0,109.0*,116.0,—
+65,5530,"SSM Institute of Engineering and Technology (Autonomous), Kuttathupatti Village, Begambur Post, Dindigul Taluk & District-624002.",MECHANICAL ENGINEERING,143.5,115.5,126.5,121.0,—,—,—
+65,5530,"SSM Institute of Engineering and Technology (Autonomous), Kuttathupatti Village, Begambur Post, Dindigul Taluk & District-624002.",Computer Science and Engineering (Cyber Security),154.0,143.5,142.0,127.5,97.5*,101.0,—
+65,5532,"Vaigai College of Engineering, Therkutheru, Melur Taluk, Madurai-625122.",CIVIL ENGINEERING,98.5*,—,—,—,—,—,—
+65,5532,"Vaigai College of Engineering, Therkutheru, Melur Taluk, Madurai-625122.",COMPUTER SCIENCE AND ENGINEERING,129.0,110.0*,128.5,98.5*,127.5*,122.5,125.5
+65,5532,"Vaigai College of Engineering, Therkutheru, Melur Taluk, Madurai-625122.",ELECTRONICS AND COMMUNICATION ENGINEERING,88.0*,—,—,—,—,—,—
+65,5532,"Vaigai College of Engineering, Therkutheru, Melur Taluk, Madurai-625122.",ELECTRICAL AND ELECTRONICS ENGINEERING,90.0*,—,—,—,—,—,—
+65,5532,"Vaigai College of Engineering, Therkutheru, Melur Taluk, Madurai-625122.",MECHANICAL ENGINEERING,82.5*,—,—,—,—,—,—
+65,5533,"Karaikudi Institute of Technology & Karaikudi Institute of Management, Keeranipatti Village, Thalakkavur Panchayat, Karaikudi, Sivaganga-630307.",Artificial Intelligence and Data Science,99.0*,—,—,—,—,—,—
+65,5533,"Karaikudi Institute of Technology & Karaikudi Institute of Management, Keeranipatti Village, Thalakkavur Panchayat, Karaikudi, Sivaganga-630307.",AGRICULTURAL ENGINEERING,—,—,—,—,—,—,—
+65,5533,"Karaikudi Institute of Technology & Karaikudi Institute of Management, Keeranipatti Village, Thalakkavur Panchayat, Karaikudi, Sivaganga-630307.",CIVIL ENGINEERING,—,—,—,—,—,—,—
+65,5533,"Karaikudi Institute of Technology & Karaikudi Institute of Management, Keeranipatti Village, Thalakkavur Panchayat, Karaikudi, Sivaganga-630307.",COMPUTER SCIENCE AND ENGINEERING,89.0*,—,—,—,—,—,—
+65,5533,"Karaikudi Institute of Technology & Karaikudi Institute of Management, Keeranipatti Village, Thalakkavur Panchayat, Karaikudi, Sivaganga-630307.",ELECTRONICS AND COMMUNICATION ENGINEERING,—,—,—,—,—,—,—
+65,5533,"Karaikudi Institute of Technology & Karaikudi Institute of Management, Keeranipatti Village, Thalakkavur Panchayat, Karaikudi, Sivaganga-630307.",ELECTRICAL AND ELECTRONICS ENGINEERING,—,—,—,—,—,—,—
+65,5533,"Karaikudi Institute of Technology & Karaikudi Institute of Management, Keeranipatti Village, Thalakkavur Panchayat, Karaikudi, Sivaganga-630307.",FASHION TECHNOLOGY,127.0*,—,—,—,—,—,—
+65,5533,"Karaikudi Institute of Technology & Karaikudi Institute of Management, Keeranipatti Village, Thalakkavur Panchayat, Karaikudi, Sivaganga-630307.",MECHANICAL ENGINEERING,—,—,—,—,—,—,—
+65,5536,"Mangayarkarasi College of Engineering, 7-1-139, 1st Street, Mangayarkarasi Nagar, Paravai, Madurai-625402.",AGRICULTURAL ENGINEERING,130.0,97.5*,82.0,126.0*,95.5,99.5,—
+65,5536,"Mangayarkarasi College of Engineering, 7-1-139, 1st Street, Mangayarkarasi Nagar, Paravai, Madurai-625402.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),152.5,137.0,97.5,117.0,134.5,150.0,—
+65,5536,"Mangayarkarasi College of Engineering, 7-1-139, 1st Street, Mangayarkarasi Nagar, Paravai, Madurai-625402.",COMPUTER SCIENCE AND ENGINEERING,150.0,142.0,149.5,102.0,130.5,91.0,—
+65,5536,"Mangayarkarasi College of Engineering, 7-1-139, 1st Street, Mangayarkarasi Nagar, Paravai, Madurai-625402.",ELECTRONICS AND COMMUNICATION ENGINEERING,142.0,125.0,138.5,87.5*,91.5*,96.0*,—
+65,5536,"Mangayarkarasi College of Engineering, 7-1-139, 1st Street, Mangayarkarasi Nagar, Paravai, Madurai-625402.",ELECTRICAL AND ELECTRONICS ENGINEERING,135.5,106.0*,123.0,99.5,88.5*,93.5,—
+65,5536,"Mangayarkarasi College of Engineering, 7-1-139, 1st Street, Mangayarkarasi Nagar, Paravai, Madurai-625402.",Electronics Engineering (VLSI Design and Technology),129.0,119.5,—,—,109.0,—,—
+65,5536,"Mangayarkarasi College of Engineering, 7-1-139, 1st Street, Mangayarkarasi Nagar, Paravai, Madurai-625402.",INFORMATION TECHNOLOGY,143.5,131.5,132.5,103.5,125.5,137.5,—
+65,5536,"Mangayarkarasi College of Engineering, 7-1-139, 1st Street, Mangayarkarasi Nagar, Paravai, Madurai-625402.",MECHANICAL ENGINEERING,107.0,80.5,85.0,—,100.0*,—,—
+65,5537,"Jainee College of Engineering and Technology, Dindigul-Theni Main Road, (NHB Extn.), Aathupattiprivu, Veerakkal B.P.O.N. Panjampatti Post, Dindigul-624303.",Artificial Intelligence and Data Science,—,—,—,—,—,—,—
+65,5537,"Jainee College of Engineering and Technology, Dindigul-Theni Main Road, (NHB Extn.), Aathupattiprivu, Veerakkal B.P.O.N. Panjampatti Post, Dindigul-624303.",BIO MEDICAL ENGINEERING,—,—,—,—,—,—,—
+65,5537,"Jainee College of Engineering and Technology, Dindigul-Theni Main Road, (NHB Extn.), Aathupattiprivu, Veerakkal B.P.O.N. Panjampatti Post, Dindigul-624303.",CIVIL ENGINEERING,—,—,—,—,—,—,—
+65,5537,"Jainee College of Engineering and Technology, Dindigul-Theni Main Road, (NHB Extn.), Aathupattiprivu, Veerakkal B.P.O.N. Panjampatti Post, Dindigul-624303.",COMPUTER SCIENCE AND ENGINEERING,—,—,—,—,—,—,—
+65,5537,"Jainee College of Engineering and Technology, Dindigul-Theni Main Road, (NHB Extn.), Aathupattiprivu, Veerakkal B.P.O.N. Panjampatti Post, Dindigul-624303.",ELECTRONICS AND COMMUNICATION ENGINEERING,—,—,—,—,—,—,—
+65,5537,"Jainee College of Engineering and Technology, Dindigul-Theni Main Road, (NHB Extn.), Aathupattiprivu, Veerakkal B.P.O.N. Panjampatti Post, Dindigul-624303.",ELECTRICAL AND ELECTRONICS ENGINEERING,—,—,—,—,—,—,—
+65,5537,"Jainee College of Engineering and Technology, Dindigul-Theni Main Road, (NHB Extn.), Aathupattiprivu, Veerakkal B.P.O.N. Panjampatti Post, Dindigul-624303.",MECHANICAL ENGINEERING,—,—,—,—,—,—,—
+66,5545,"G.T.N COLLEGE OF TECHNOLOGY, OLD KARUR ROAD, DINDIGUL - 624005",Artificial Intelligence and Data Science,122.0,111.5*,112.0,104.0*,119.0*,—,—
+66,5545,"G.T.N COLLEGE OF TECHNOLOGY, OLD KARUR ROAD, DINDIGUL - 624005",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),103.5*,—,—,—,—,—,—
+66,5545,"G.T.N COLLEGE OF TECHNOLOGY, OLD KARUR ROAD, DINDIGUL - 624005",COMPUTER SCIENCE AND ENGINEERING,119.0,92.0*,93.5*,104.5*,109.5*,—,—
+66,5545,"G.T.N COLLEGE OF TECHNOLOGY, OLD KARUR ROAD, DINDIGUL - 624005",ELECTRONICS AND COMMUNICATION ENGINEERING,95.5,—,—,—,—,—,—
+66,5545,"G.T.N COLLEGE OF TECHNOLOGY, OLD KARUR ROAD, DINDIGUL - 624005",INFORMATION TECHNOLOGY,93.0*,—,—,—,—,—,—
+66,5546,"Jamal Mohamed College of Engineering, NH-45, Trichy Road, Morepatty, Vadamadurai, Dindigul - 624802",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),101.5*,—,—,—,—,—,—
+66,5546,"Jamal Mohamed College of Engineering, NH-45, Trichy Road, Morepatty, Vadamadurai, Dindigul - 624802",COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),122.5*,—,—,—,—,—,—
+66,5546,"Jamal Mohamed College of Engineering, NH-45, Trichy Road, Morepatty, Vadamadurai, Dindigul - 624802",COMPUTER SCIENCE AND ENGINEERING,108.0,—,—,—,—,—,—
+66,5546,"Jamal Mohamed College of Engineering, NH-45, Trichy Road, Morepatty, Vadamadurai, Dindigul - 624802",MECHANICAL ENGINEERING,110.0*,—,—,—,—,—,—
+66,5703,"Christian College of Engineering and Technology, Near Check Post, Oddanchatram, Dindigul-624619.",Artificial Intelligence and Data Science,131.5,119.5*,125.5,105.5*,111.5*,126.0,103.5
+66,5703,"Christian College of Engineering and Technology, Near Check Post, Oddanchatram, Dindigul-624619.",AGRICULTURAL ENGINEERING,112.0,—,83.0,95.0*,83.0*,—,—
+66,5703,"Christian College of Engineering and Technology, Near Check Post, Oddanchatram, Dindigul-624619.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),115.0,96.5*,—,—,97.5*,—,—
+66,5703,"Christian College of Engineering and Technology, Near Check Post, Oddanchatram, Dindigul-624619.",CIVIL ENGINEERING,107.0*,—,—,—,—,—,—
+66,5703,"Christian College of Engineering and Technology, Near Check Post, Oddanchatram, Dindigul-624619.",COMPUTER SCIENCE AND ENGINEERING,136.0,113.0*,131.5,104.5*,107.5*,120.0,—
+66,5703,"Christian College of Engineering and Technology, Near Check Post, Oddanchatram, Dindigul-624619.",ELECTRONICS AND COMMUNICATION ENGINEERING,131.0,99.5*,124.5*,90.0*,112.5*,—,—
+66,5703,"Christian College of Engineering and Technology, Near Check Post, Oddanchatram, Dindigul-624619.",ELECTRICAL AND ELECTRONICS ENGINEERING,88.0*,—,—,—,—,—,—
+66,5703,"Christian College of Engineering and Technology, Near Check Post, Oddanchatram, Dindigul-624619.",INFORMATION TECHNOLOGY,118.0,86.5*,—,103.5*,90.0*,93.0,—
+66,5703,"Christian College of Engineering and Technology, Near Check Post, Oddanchatram, Dindigul-624619.",MECHANICAL ENGINEERING,99.5,—,—,—,81.0*,—,—
+66,5832,"N.P.R College of Engineering and Technology (Autonomous), Punnappatti Village, Uluppakudi, Natham, Dindigul District-624401.",Artificial Intelligence and Data Science,147.5,124.5,137.5,99.5,116.0*,108.0*,—
+66,5832,"N.P.R College of Engineering and Technology (Autonomous), Punnappatti Village, Uluppakudi, Natham, Dindigul District-624401.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),140.5,130.5,133.0,88.0*,100.5*,—,—
+66,5832,"N.P.R College of Engineering and Technology (Autonomous), Punnappatti Village, Uluppakudi, Natham, Dindigul District-624401.",CIVIL ENGINEERING,133.0,94.0*,129.5,—,95.0*,—,—
+66,5832,"N.P.R College of Engineering and Technology (Autonomous), Punnappatti Village, Uluppakudi, Natham, Dindigul District-624401.",COMPUTER SCIENCE AND ENGINEERING,154.0,133.0,136.5,121.5,106.5*,115.0*,—
+66,5832,"N.P.R College of Engineering and Technology (Autonomous), Punnappatti Village, Uluppakudi, Natham, Dindigul District-624401.",ELECTRONICS AND COMMUNICATION ENGINEERING,142.0,118.0,133.5,109.5*,118.0*,—,—
+66,5832,"N.P.R College of Engineering and Technology (Autonomous), Punnappatti Village, Uluppakudi, Natham, Dindigul District-624401.",ELECTRICAL AND ELECTRONICS ENGINEERING,124.0,104.0*,113.0,110.0*,—,—,—
+66,5832,"N.P.R College of Engineering and Technology (Autonomous), Punnappatti Village, Uluppakudi, Natham, Dindigul District-624401.",INFORMATION TECHNOLOGY,147.0,131.5,140.5,97.5*,111.5*,—,—
+66,5832,"N.P.R College of Engineering and Technology (Autonomous), Punnappatti Village, Uluppakudi, Natham, Dindigul District-624401.",MECHANICAL ENGINEERING,119.0,105.0*,—,105.0*,86.0*,—,—
+66,5832,"N.P.R College of Engineering and Technology (Autonomous), Punnappatti Village, Uluppakudi, Natham, Dindigul District-624401.",Computer Science and Engineering (Cyber Security),136.5,124.0,129.0,102.5*,110.5*,—,—
+66,5842,"SRM Madurai College for Engineering and Technology, Pottapalayam Village, Manamadurai Taluk, Sivagangai District-630611.",Artificial Intelligence and Data Science,162.0,150.0,149.0,135.5,110.0*,—,—
+66,5842,"SRM Madurai College for Engineering and Technology, Pottapalayam Village, Manamadurai Taluk, Sivagangai District-630611.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),159.5,147.5,—,121.5,127.5*,—,—
+66,5842,"SRM Madurai College for Engineering and Technology, Pottapalayam Village, Manamadurai Taluk, Sivagangai District-630611.",CIVIL ENGINEERING,142.0,120.5,139.0,107.0,126.5*,—,—
+66,5842,"SRM Madurai College for Engineering and Technology, Pottapalayam Village, Manamadurai Taluk, Sivagangai District-630611.",COMPUTER SCIENCE AND ENGINEERING,171.0,167.0,166.0,147.5,121.0*,—,—
+66,5842,"SRM Madurai College for Engineering and Technology, Pottapalayam Village, Manamadurai Taluk, Sivagangai District-630611.",ELECTRONICS AND COMMUNICATION ENGINEERING,161.0,152.0,157.0,116.0,93.0*,—,—
+66,5842,"SRM Madurai College for Engineering and Technology, Pottapalayam Village, Manamadurai Taluk, Sivagangai District-630611.",ELECTRICAL AND ELECTRONICS ENGINEERING,153.0,144.5,145.5,110.5,112.5*,—,—
+66,5842,"SRM Madurai College for Engineering and Technology, Pottapalayam Village, Manamadurai Taluk, Sivagangai District-630611.",INFORMATION TECHNOLOGY,163.0,151.0,154.0,131.0,97.0*,—,—
+66,5842,"SRM Madurai College for Engineering and Technology, Pottapalayam Village, Manamadurai Taluk, Sivagangai District-630611.",MECHANICAL ENGINEERING,142.0,124.0,—,114.5,—,—,—
+66,5842,"SRM Madurai College for Engineering and Technology, Pottapalayam Village, Manamadurai Taluk, Sivagangai District-630611.",Computer Science and Engineering (Cyber Security),161.5,150.0,152.5,144.5,106.5*,—,—
+66,5851,"Veerammal Engineering College, PVP Nagar, K.Singrakottai, Dindigul-624708.",Artificial Intelligence and Data Science,96.0*,—,—,—,—,—,—
+66,5851,"Veerammal Engineering College, PVP Nagar, K.Singrakottai, Dindigul-624708.",CIVIL ENGINEERING,112.0*,—,—,—,—,—,—
+66,5851,"Veerammal Engineering College, PVP Nagar, K.Singrakottai, Dindigul-624708.",COMPUTER SCIENCE AND ENGINEERING,100.0,—,—,—,—,94.0*,—
+66,5851,"Veerammal Engineering College, PVP Nagar, K.Singrakottai, Dindigul-624708.",ELECTRONICS AND COMMUNICATION ENGINEERING,87.0*,—,—,—,—,—,—
+66,5851,"Veerammal Engineering College, PVP Nagar, K.Singrakottai, Dindigul-624708.",ELECTRICAL AND ELECTRONICS ENGINEERING,—,—,—,—,—,—,—
+66,5851,"Veerammal Engineering College, PVP Nagar, K.Singrakottai, Dindigul-624708.",INFORMATION TECHNOLOGY,83.0*,—,—,—,—,—,—
+66,5851,"Veerammal Engineering College, PVP Nagar, K.Singrakottai, Dindigul-624708.",Computer Science and Engineering (Cyber Security),103.5*,—,—,—,—,—,—
+66,5862,"RVS School of Engineering and Technology, (Formerly R V S Educational Trust's Group of Institutions), RVS Nagar, N.Paraipatti Post, Dindigul-624005.",AERONAUTICAL ENGINEERING,117.0*,—,—,—,—,—,—
+66,5862,"RVS School of Engineering and Technology, (Formerly R V S Educational Trust's Group of Institutions), RVS Nagar, N.Paraipatti Post, Dindigul-624005.",AGRICULTURAL ENGINEERING,103.5,88.5*,—,—,82.0*,—,—
+66,5862,"RVS School of Engineering and Technology, (Formerly R V S Educational Trust's Group of Institutions), RVS Nagar, N.Paraipatti Post, Dindigul-624005.",AUTOMOBILE ENGINEERING,99.5*,—,—,—,—,—,—
+66,5862,"RVS School of Engineering and Technology, (Formerly R V S Educational Trust's Group of Institutions), RVS Nagar, N.Paraipatti Post, Dindigul-624005.",BIO MEDICAL ENGINEERING,137.0,89.5*,128.5,106.0*,112.0,115.0,106.5
+66,5862,"RVS School of Engineering and Technology, (Formerly R V S Educational Trust's Group of Institutions), RVS Nagar, N.Paraipatti Post, Dindigul-624005.",COMPUTER SCIENCE AND BUSSINESS SYSTEM,96.5*,—,—,—,—,—,—
+66,5862,"RVS School of Engineering and Technology, (Formerly R V S Educational Trust's Group of Institutions), RVS Nagar, N.Paraipatti Post, Dindigul-624005.",CIVIL ENGINEERING,—,—,—,—,—,—,—
+66,5862,"RVS School of Engineering and Technology, (Formerly R V S Educational Trust's Group of Institutions), RVS Nagar, N.Paraipatti Post, Dindigul-624005.",COMPUTER SCIENCE AND ENGINEERING,128.0,106.0*,124.0,101.0*,95.0,—,—
+67,5862,"RVS School of Engineering and Technology, (Formerly R V S Educational Trust's Group of Institutions), RVS Nagar, N.Paraipatti Post, Dindigul-624005.",MECHANICAL ENGINEERING,89.0*,—,—,—,—,—,—
+67,5862,"RVS School of Engineering and Technology, (Formerly R V S Educational Trust's Group of Institutions), RVS Nagar, N.Paraipatti Post, Dindigul-624005.",Computer Science and Engineering (Cyber Security),111.5,103.0*,—,91.5*,98.0,—,—
+67,5865,"Nadar Saraswathi College of Engineering and Technology, Vadapudupatti, Annanji Post, Theni -625531.",Artificial Intelligence and Data Science,149.0,133.5,145.0,132.0,121.0*,148.0*,—
+67,5865,"Nadar Saraswathi College of Engineering and Technology, Vadapudupatti, Annanji Post, Theni -625531.",CIVIL ENGINEERING,113.0,89.5*,—,91.0*,—,—,—
+67,5865,"Nadar Saraswathi College of Engineering and Technology, Vadapudupatti, Annanji Post, Theni -625531.",COMPUTER SCIENCE AND ENGINEERING,162.5,144.5,141.0,147.0,128.5*,149.0,—
+67,5865,"Nadar Saraswathi College of Engineering and Technology, Vadapudupatti, Annanji Post, Theni -625531.",ELECTRONICS AND COMMUNICATION ENGINEERING,152.0,139.5,142.0,131.5,—,123.5,—
+67,5865,"Nadar Saraswathi College of Engineering and Technology, Vadapudupatti, Annanji Post, Theni -625531.",ELECTRICAL AND ELECTRONICS ENGINEERING,129.5,98.5,93.0,103.0*,110.0*,—,—
+67,5865,"Nadar Saraswathi College of Engineering and Technology, Vadapudupatti, Annanji Post, Theni -625531.",INFORMATION TECHNOLOGY,149.5,136.0,136.0,132.5,107.0*,120.0*,—
+67,5865,"Nadar Saraswathi College of Engineering and Technology, Vadapudupatti, Annanji Post, Theni -625531.",MECHANICAL ENGINEERING,118.0,97.5*,98.5,91.5*,—,—,—
+67,5902,"Bharath Niketan Engineering College, Shri Gowri Nagar, Thimmarasanaickanoor, Aundipatti, Theni District-625536.",Artificial Intelligence and Data Science,111.0,101.0*,—,86.0*,103.5*,108.0*,—
+67,5902,"Bharath Niketan Engineering College, Shri Gowri Nagar, Thimmarasanaickanoor, Aundipatti, Theni District-625536.",AGRICULTURAL ENGINEERING,95.5*,—,—,—,—,—,—
+67,5902,"Bharath Niketan Engineering College, Shri Gowri Nagar, Thimmarasanaickanoor, Aundipatti, Theni District-625536.",CIVIL ENGINEERING,86.5*,—,—,—,—,—,—
+67,5902,"Bharath Niketan Engineering College, Shri Gowri Nagar, Thimmarasanaickanoor, Aundipatti, Theni District-625536.",COMPUTER SCIENCE AND ENGINEERING,124.0,96.5*,—,93.5*,93.5*,90.5*,—
+67,5902,"Bharath Niketan Engineering College, Shri Gowri Nagar, Thimmarasanaickanoor, Aundipatti, Theni District-625536.",ELECTRONICS AND COMMUNICATION ENGINEERING,88.5*,—,—,—,—,—,—
+67,5902,"Bharath Niketan Engineering College, Shri Gowri Nagar, Thimmarasanaickanoor, Aundipatti, Theni District-625536.",ELECTRICAL AND ELECTRONICS ENGINEERING,99.0,—,—,—,—,—,—
+67,5902,"Bharath Niketan Engineering College, Shri Gowri Nagar, Thimmarasanaickanoor, Aundipatti, Theni District-625536.",INFORMATION TECHNOLOGY,105.0,101.0*,—,104.5*,98.0*,77.5*,—
+67,5902,"Bharath Niketan Engineering College, Shri Gowri Nagar, Thimmarasanaickanoor, Aundipatti, Theni District-625536.",MECHANICAL ENGINEERING,100.5*,—,—,—,—,—,—
+67,5904,"K.L.N.College of Engineering (Autonomous), Madurai - Nedunkulam Road, Pottapalayam, Sivagangai District-630611.",Artificial Intelligence and Data Science,168.0,156.0,151.5,136.5,—,—,—
+67,5904,"K.L.N.College of Engineering (Autonomous), Madurai - Nedunkulam Road, Pottapalayam, Sivagangai District-630611.",Computer Science and Engineering (Internet of Things),150.5,142.5,145.5,97.0,—,—,—
+67,5904,"K.L.N.College of Engineering (Autonomous), Madurai - Nedunkulam Road, Pottapalayam, Sivagangai District-630611.",COMPUTER SCIENCE AND ENGINEERING,173.5,166.0,165.0,137.5,115.5*,—,—
+67,5904,"K.L.N.College of Engineering (Autonomous), Madurai - Nedunkulam Road, Pottapalayam, Sivagangai District-630611.",ELECTRONICS AND COMMUNICATION ENGINEERING,161.0,153.0,152.5,126.5,133.5*,—,—
+67,5904,"K.L.N.College of Engineering (Autonomous), Madurai - Nedunkulam Road, Pottapalayam, Sivagangai District-630611.",ELECTRICAL AND ELECTRONICS ENGINEERING,144.5,133.0,102.0,128.0*,131.5*,—,—
+67,5904,"K.L.N.College of Engineering (Autonomous), Madurai - Nedunkulam Road, Pottapalayam, Sivagangai District-630611.",INFORMATION TECHNOLOGY,163.5,156.0,151.0,127.5,106.5*,—,—
+67,5904,"K.L.N.College of Engineering (Autonomous), Madurai - Nedunkulam Road, Pottapalayam, Sivagangai District-630611.",MECHANICAL ENGINEERING,135.0,116.5,127.5*,127.5*,—,—,—
+67,5904,"K.L.N.College of Engineering (Autonomous), Madurai - Nedunkulam Road, Pottapalayam, Sivagangai District-630611.",Computer Science and Engineering (Cyber Security),158.0,151.0,153.5,135.0,99.5*,—,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",Artificial Intelligence and Data Science,169.0,142.0,164.5,132.5,97.0,138.5,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",AERONAUTICAL ENGINEERING,122.5,119.0*,122.5,—,—,—,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",AGRICULTURAL ENGINEERING,125.0,90.5,122.5,—,—,—,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),160.5,138.0,153.5,160.5*,117.5,—,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",COMPUTER SCIENCE AND BUSSINESS SYSTEM,145.0,108.5,139.5,93.5*,—,—,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",CIVIL ENGINEERING,156.5,94.5,148.0,—,115.5*,—,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",CHEMICAL ENGINEERING,137.5,89.5*,—,125.0*,—,—,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",COMPUTER SCIENCE AND ENGINEERING,161.0,130.5,160.5,122.5*,113.0*,148.5*,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",ELECTRONICS AND COMMUNICATION ENGINEERING,143.5,110.5,167.0,115.5*,—,—,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",ELECTRICAL AND ELECTRONICS ENGINEERING,131.0,96.5,129.0,95.5*,92.0*,—,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",INFORMATION TECHNOLOGY,151.0,116.5,149.5,98.0*,103.5*,—,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",MECHANICAL ENGINEERING,132.0,93.0,127.5,124.5*,—,—,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",MARINE ENGINEERING,180.0*,—,—,—,—,—,—
+67,5907,"Mohamed Sathak Engineering College (Autonomous), Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",Computer Science and Engineering (Cyber Security),158.5,109.0,158.0,115.5*,98.0*,—,—
+67,5910,"PSNA College of Engineering and Technology (Autonomous), Kothandaraman Nagar, Muthanampatti (PO), Dindigul-624622.",Artificial Intelligence and Data Science,182.0,177.5,176.0,167.0,121.5,123.5*,—
+67,5910,"PSNA College of Engineering and Technology (Autonomous), Kothandaraman Nagar, Muthanampatti (PO), Dindigul-624622.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),179.0,178.0,178.0,166.5,122.0,122.0*,—
+67,5910,"PSNA College of Engineering and Technology (Autonomous), Kothandaraman Nagar, Muthanampatti (PO), Dindigul-624622.",BIO MEDICAL ENGINEERING,167.0,158.0,162.0,145.0,111.0*,164.0*,—
+67,5910,"PSNA College of Engineering and Technology (Autonomous), Kothandaraman Nagar, Muthanampatti (PO), Dindigul-624622.",COMPUTER SCIENCE AND BUSSINESS SYSTEM,177.0,175.0,174.5,164.0,117.0,—,—
+67,5910,"PSNA College of Engineering and Technology (Autonomous), Kothandaraman Nagar, Muthanampatti (PO), Dindigul-624622.",CIVIL ENGINEERING,167.5,153.0,163.0,144.5,134.0,126.0,—
+67,5910,"PSNA College of Engineering and Technology (Autonomous), Kothandaraman Nagar, Muthanampatti (PO), Dindigul-624622.",COMPUTER SCIENCE AND ENGINEERING,183.0,179.0,180.5,168.0,134.0,97.0*,88.0
+67,5910,"PSNA College of Engineering and Technology (Autonomous), Kothandaraman Nagar, Muthanampatti (PO), Dindigul-624622.",ELECTRONICS AND COMMUNICATION ENGINEERING,180.5,176.5,177.0,169.0,139.5,107.0,—
+67,5910,"PSNA College of Engineering and Technology (Autonomous), Kothandaraman Nagar, Muthanampatti (PO), Dindigul-624622.",ELECTRICAL AND ELECTRONICS ENGINEERING,174.0,172.0,172.5,160.5,124.5,—,—
+67,5910,"PSNA College of Engineering and Technology (Autonomous), Kothandaraman Nagar, Muthanampatti (PO), Dindigul-624622.",Electronics Engineering (VLSI Design and Technology),174.5,170.5,167.0,166.5,105.0,—,—
+67,5910,"PSNA College of Engineering and Technology (Autonomous), Kothandaraman Nagar, Muthanampatti (PO), Dindigul-624622.",INFORMATION TECHNOLOGY,179.0,176.5,174.5,167.0,128.5,103.5,—
+67,5910,"PSNA College of Engineering and Technology (Autonomous), Kothandaraman Nagar, Muthanampatti (PO), Dindigul-624622.",MECHANICAL ENGINEERING,166.0,159.0,161.0,145.5,108.0,—,—
+68,5910,"PSNA College of Engineering and Technology (Autonomous), Kothandaraman Nagar, Muthanampatti (PO), Dindigul-624622.",Computer Science and Engineering (Cyber Security),178.5,175.5,173.5,166.0,131.5,—,—
+68,5911,"P.T.R. College of Engineering and Technology, Thanapandiyan Nagar, Madurai - Tirumangalam Road, Madurai-625008.",Artificial Intelligence and Data Science,99.5,—,—,—,—,—,—
+68,5911,"P.T.R. College of Engineering and Technology, Thanapandiyan Nagar, Madurai - Tirumangalam Road, Madurai-625008.",BIO MEDICAL ENGINEERING,109.0*,—,—,—,—,—,—
+68,5911,"P.T.R. College of Engineering and Technology, Thanapandiyan Nagar, Madurai - Tirumangalam Road, Madurai-625008.",COMPUTER SCIENCE AND BUSSINESS SYSTEM,90.0*,—,—,—,—,—,—
+68,5911,"P.T.R. College of Engineering and Technology, Thanapandiyan Nagar, Madurai - Tirumangalam Road, Madurai-625008.",CIVIL ENGINEERING,124.0*,—,—,—,—,—,—
+68,5911,"P.T.R. College of Engineering and Technology, Thanapandiyan Nagar, Madurai - Tirumangalam Road, Madurai-625008.",COMPUTER SCIENCE AND ENGINEERING,113.5,—,—,—,—,—,—
+68,5911,"P.T.R. College of Engineering and Technology, Thanapandiyan Nagar, Madurai - Tirumangalam Road, Madurai-625008.",ELECTRONICS AND COMMUNICATION ENGINEERING,93.0,—,—,—,—,—,—
+68,5911,"P.T.R. College of Engineering and Technology, Thanapandiyan Nagar, Madurai - Tirumangalam Road, Madurai-625008.",ELECTRICAL AND ELECTRONICS ENGINEERING,109.0*,—,—,—,—,—,—
+68,5911,"P.T.R. College of Engineering and Technology, Thanapandiyan Nagar, Madurai - Tirumangalam Road, Madurai-625008.",MECHANICAL ENGINEERING,—,—,—,—,—,—,—
+68,5911,"P.T.R. College of Engineering and Technology, Thanapandiyan Nagar, Madurai - Tirumangalam Road, Madurai-625008.",Computer Science and Engineering (Cyber Security),110.0*,—,—,—,—,—,—
+68,5912,"Pandian Saraswathi Yadav Engineering College, Arasanoor Village, Thirumansolai Post, Sivaganagi District-630561.",Artificial Intelligence and Data Science,131.5,112.5,—,116.0*,—,—,—
+68,5912,"Pandian Saraswathi Yadav Engineering College, Arasanoor Village, Thirumansolai Post, Sivaganagi District-630561.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),119.5,95.5,—,110.0*,—,—,—
+68,5912,"Pandian Saraswathi Yadav Engineering College, Arasanoor Village, Thirumansolai Post, Sivaganagi District-630561.",CIVIL ENGINEERING,114.5*,—,—,—,—,—,—
+68,5912,"Pandian Saraswathi Yadav Engineering College, Arasanoor Village, Thirumansolai Post, Sivaganagi District-630561.",COMPUTER SCIENCE AND ENGINEERING,121.0,101.0*,103.5*,102.0*,84.0*,—,—
+68,5912,"Pandian Saraswathi Yadav Engineering College, Arasanoor Village, Thirumansolai Post, Sivaganagi District-630561.",ELECTRONICS AND COMMUNICATION ENGINEERING,132.5,101.5*,—,—,97.0*,—,—
+68,5912,"Pandian Saraswathi Yadav Engineering College, Arasanoor Village, Thirumansolai Post, Sivaganagi District-630561.",ELECTRICAL AND ELECTRONICS ENGINEERING,89.5,88.0*,—,85.5*,—,—,—
+68,5912,"Pandian Saraswathi Yadav Engineering College, Arasanoor Village, Thirumansolai Post, Sivaganagi District-630561.",INFORMATION TECHNOLOGY,138.5,105.0,91.5,94.5*,90.5*,—,—
+68,5912,"Pandian Saraswathi Yadav Engineering College, Arasanoor Village, Thirumansolai Post, Sivaganagi District-630561.",MECHANICAL ENGINEERING,98.0,93.5*,—,—,—,—,—
+68,5912,"Pandian Saraswathi Yadav Engineering College, Arasanoor Village, Thirumansolai Post, Sivaganagi District-630561.",Computer Science and Engineering (Cyber Security),100.0,89.0*,—,—,91.0*,—,—
+68,5913,"R.V.S. College of Engineering, RVS Nagar, Karur Road, N.Paraipatti Post, Dindigul-624005.",Artificial Intelligence and Data Science,147.5,123.5,112.5,92.0,89.0*,140.0,—
+68,5913,"R.V.S. College of Engineering, RVS Nagar, Karur Road, N.Paraipatti Post, Dindigul-624005.",CIVIL ENGINEERING,94.0*,—,—,—,—,—,—
+68,5913,"R.V.S. College of Engineering, RVS Nagar, Karur Road, N.Paraipatti Post, Dindigul-624005.",CHEMICAL ENGINEERING,112.5*,—,—,—,—,—,—
+68,5913,"R.V.S. College of Engineering, RVS Nagar, Karur Road, N.Paraipatti Post, Dindigul-624005.",COMPUTER AND COMMUNICATION ENGINEERING,92.5*,—,—,—,—,—,—
+68,5913,"R.V.S. College of Engineering, RVS Nagar, Karur Road, N.Paraipatti Post, Dindigul-624005.",COMPUTER SCIENCE AND ENGINEERING,137.5,94.5,113.5,88.5*,84.0,122.5,—
+68,5913,"R.V.S. College of Engineering, RVS Nagar, Karur Road, N.Paraipatti Post, Dindigul-624005.",ELECTRONICS AND COMMUNICATION ENGINEERING,130.5,97.0*,—,95.0*,90.0*,—,—
+68,5913,"R.V.S. College of Engineering, RVS Nagar, Karur Road, N.Paraipatti Post, Dindigul-624005.",ELECTRICAL AND ELECTRONICS ENGINEERING,96.5,83.5*,—,—,—,—,—
+68,5913,"R.V.S. College of Engineering, RVS Nagar, Karur Road, N.Paraipatti Post, Dindigul-624005.",FASHION TECHNOLOGY,113.5*,—,—,—,—,—,—
+68,5913,"R.V.S. College of Engineering, RVS Nagar, Karur Road, N.Paraipatti Post, Dindigul-624005.",INFORMATION TECHNOLOGY,132.5,84.5*,123.0,93.5*,94.5,123.5,—
+68,5913,"R.V.S. College of Engineering, RVS Nagar, Karur Road, N.Paraipatti Post, Dindigul-624005.",MECHANICAL ENGINEERING,86.5*,—,—,—,—,—,—
+68,5913,"R.V.S. College of Engineering, RVS Nagar, Karur Road, N.Paraipatti Post, Dindigul-624005.",PETRO CHEMICAL TECHNOLOGY,106.0*,—,—,—,—,—,—
+68,5913,"R.V.S. College of Engineering, RVS Nagar, Karur Road, N.Paraipatti Post, Dindigul-624005.",TEXTILE TECHNOLOGY,101.0*,—,—,—,—,—,—
+68,5914,"Solamalai College of Engineering (Autonomous), S.V Raja Nagar, Veerapanjan, Madurai-625020.",Artificial Intelligence and Data Science,137.0,117.0,—,97.5*,104.0*,—,—
+68,5914,"Solamalai College of Engineering (Autonomous), S.V Raja Nagar, Veerapanjan, Madurai-625020.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),116.5,88.0,113.0,—,105.5*,—,—
+68,5914,"Solamalai College of Engineering (Autonomous), S.V Raja Nagar, Veerapanjan, Madurai-625020.",COMPUTER SCIENCE AND BUSSINESS SYSTEM,136.0,114.0,119.0*,—,122.0*,85.0*,—
+68,5914,"Solamalai College of Engineering (Autonomous), S.V Raja Nagar, Veerapanjan, Madurai-625020.",CIVIL ENGINEERING,99.0,92.5*,—,—,86.5*,—,—
+68,5914,"Solamalai College of Engineering (Autonomous), S.V Raja Nagar, Veerapanjan, Madurai-625020.",COMPUTER SCIENCE AND ENGINEERING,126.0,109.0,125.0,84.5*,105.5*,—,—
+68,5914,"Solamalai College of Engineering (Autonomous), S.V Raja Nagar, Veerapanjan, Madurai-625020.",ELECTRONICS AND COMMUNICATION ENGINEERING,127.5,80.5*,123.5,101.5,98.5*,—,—
+68,5914,"Solamalai College of Engineering (Autonomous), S.V Raja Nagar, Veerapanjan, Madurai-625020.",ELECTRICAL AND ELECTRONICS ENGINEERING,126.0,107.0*,117.5,108.5*,125.5*,—,—
+68,5914,"Solamalai College of Engineering (Autonomous), S.V Raja Nagar, Veerapanjan, Madurai-625020.",Electronics Engineering (VLSI Design and Technology),109.5*,—,—,—,—,—,—
+68,5914,"Solamalai College of Engineering (Autonomous), S.V Raja Nagar, Veerapanjan, Madurai-625020.",MECHANICAL ENGINEERING,129.0,105.5,—,106.5,101.0*,—,—
+68,5915,"SACS M.A.V.M.M. Engineering College, 446, Melur - Alagarkoil Road, Kidaripatti (PO), Alagarkoil Via, Melur Taluk, Madurai-625301.",Artificial Intelligence and Data Science,149.0,136.5,—,113.5*,119.5,—,—
+68,5915,"SACS M.A.V.M.M. Engineering College, 446, Melur - Alagarkoil Road, Kidaripatti (PO), Alagarkoil Via, Melur Taluk, Madurai-625301.",CIVIL ENGINEERING,84.0*,—,—,—,—,—,—
+68,5915,"SACS M.A.V.M.M. Engineering College, 446, Melur - Alagarkoil Road, Kidaripatti (PO), Alagarkoil Via, Melur Taluk, Madurai-625301.",COMPUTER SCIENCE AND ENGINEERING,143.0,113.0,—,106.5*,116.0*,121.5,—
+68,5915,"SACS M.A.V.M.M. Engineering College, 446, Melur - Alagarkoil Road, Kidaripatti (PO), Alagarkoil Via, Melur Taluk, Madurai-625301.",ELECTRONICS AND COMMUNICATION ENGINEERING,131.0,108.0,—,100.5*,111.0,100.0,—
+68,5915,"SACS M.A.V.M.M. Engineering College, 446, Melur - Alagarkoil Road, Kidaripatti (PO), Alagarkoil Via, Melur Taluk, Madurai-625301.",ELECTRICAL AND ELECTRONICS ENGINEERING,117.5,91.0,85.0*,106.0*,80.5*,87.5*,—
+68,5915,"SACS M.A.V.M.M. Engineering College, 446, Melur - Alagarkoil Road, Kidaripatti (PO), Alagarkoil Via, Melur Taluk, Madurai-625301.",INFORMATION TECHNOLOGY,136.5,110.0,112.5,116.0*,113.5,122.5,—
+68,5915,"SACS M.A.V.M.M. Engineering College, 446, Melur - Alagarkoil Road, Kidaripatti (PO), Alagarkoil Via, Melur Taluk, Madurai-625301.",MECHANICAL ENGINEERING,85.5*,—,—,—,—,—,—
+68,5919,"St. Michael College of Engineering and Technology, St. Santhiagaper Nagar, Kalayarkoil, Sivaganga District-630551.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),125.5,110.0*,—,106.5*,95.5*,—,—
+68,5919,"St. Michael College of Engineering and Technology, St. Santhiagaper Nagar, Kalayarkoil, Sivaganga District-630551.",BIO MEDICAL ENGINEERING,117.0,103.5*,—,—,104.0*,—,—
+68,5919,"St. Michael College of Engineering and Technology, St. Santhiagaper Nagar, Kalayarkoil, Sivaganga District-630551.",BIO TECHNOLOGY,126.0,87.5*,117.0*,102.0*,96.5*,—,—
+69,5919,"St. Michael College of Engineering and Technology, St. Santhiagaper Nagar, Kalayarkoil, Sivaganga District-630551.",CHEMICAL ENGINEERING,98.0*,—,—,—,—,—,—
+69,5919,"St. Michael College of Engineering and Technology, St. Santhiagaper Nagar, Kalayarkoil, Sivaganga District-630551.",COMPUTER SCIENCE AND ENGINEERING,131.0,95.0*,121.0*,96.5*,85.0*,—,—
+69,5919,"St. Michael College of Engineering and Technology, St. Santhiagaper Nagar, Kalayarkoil, Sivaganga District-630551.",ELECTRONICS AND COMMUNICATION ENGINEERING,94.0*,—,—,—,—,—,—
+69,5919,"St. Michael College of Engineering and Technology, St. Santhiagaper Nagar, Kalayarkoil, Sivaganga District-630551.",ELECTRICAL AND ELECTRONICS ENGINEERING,108.5,82.0*,—,105.5*,103.5*,—,—
+69,5919,"St. Michael College of Engineering and Technology, St. Santhiagaper Nagar, Kalayarkoil, Sivaganga District-630551.",MECHANICAL ENGINEERING,110.0*,—,—,—,—,—,—
+69,5921,"Syed Ammal Engineering College (Autonomous), Dr. E.M.Abdullah Campus, Lanthai, Achunthanvayal Post, Ramanathapuram-623502.",Artificial Intelligence and Data Science,169.5,148.0,155.5,100.0*,125.5*,—,—
+69,5921,"Syed Ammal Engineering College (Autonomous), Dr. E.M.Abdullah Campus, Lanthai, Achunthanvayal Post, Ramanathapuram-623502.",BIO MEDICAL ENGINEERING,143.0,102.0*,142.0,—,—,—,—
+69,5921,"Syed Ammal Engineering College (Autonomous), Dr. E.M.Abdullah Campus, Lanthai, Achunthanvayal Post, Ramanathapuram-623502.",COMPUTER SCIENCE AND BUSSINESS SYSTEM,144.0,118.5,151.5,99.5*,—,—,—
+69,5921,"Syed Ammal Engineering College (Autonomous), Dr. E.M.Abdullah Campus, Lanthai, Achunthanvayal Post, Ramanathapuram-623502.",CIVIL ENGINEERING,120.0,88.5*,116.0,—,101.0*,—,—
+69,5921,"Syed Ammal Engineering College (Autonomous), Dr. E.M.Abdullah Campus, Lanthai, Achunthanvayal Post, Ramanathapuram-623502.",COMPUTER SCIENCE AND ENGINEERING,167.0,140.0,153.5,100.5*,104.5,—,—
+69,5921,"Syed Ammal Engineering College (Autonomous), Dr. E.M.Abdullah Campus, Lanthai, Achunthanvayal Post, Ramanathapuram-623502.",ELECTRONICS AND COMMUNICATION ENGINEERING,171.0,149.5,157.0,133.0,133.0*,—,—
+69,5921,"Syed Ammal Engineering College (Autonomous), Dr. E.M.Abdullah Campus, Lanthai, Achunthanvayal Post, Ramanathapuram-623502.",ELECTRICAL AND ELECTRONICS ENGINEERING,133.5,82.0,120.0,109.5*,115.0*,—,—
+69,5921,"Syed Ammal Engineering College (Autonomous), Dr. E.M.Abdullah Campus, Lanthai, Achunthanvayal Post, Ramanathapuram-623502.",INFORMATION TECHNOLOGY,154.5,137.5,—,105.5*,106.5*,—,—
+69,5921,"Syed Ammal Engineering College (Autonomous), Dr. E.M.Abdullah Campus, Lanthai, Achunthanvayal Post, Ramanathapuram-623502.",MECHANICAL ENGINEERING,131.5,99.5*,128.5,101.0*,105.0,—,—
+69,5930,"SBM College of Engineering and Technology, SBM Nagar, Thamaraipadi(PO), Trichy Road, Dindigul-624005.",Artificial Intelligence and Data Science,122.0,97.0*,116.5,117.5*,90.5*,—,—
+69,5930,"SBM College of Engineering and Technology, SBM Nagar, Thamaraipadi(PO), Trichy Road, Dindigul-624005.",BIO MEDICAL ENGINEERING,117.0*,—,—,—,—,—,—
+69,5930,"SBM College of Engineering and Technology, SBM Nagar, Thamaraipadi(PO), Trichy Road, Dindigul-624005.",CIVIL ENGINEERING,80.0*,—,—,—,—,—,—
+69,5930,"SBM College of Engineering and Technology, SBM Nagar, Thamaraipadi(PO), Trichy Road, Dindigul-624005.",COMPUTER SCIENCE AND ENGINEERING,122.5,82.0*,118.5*,84.5*,88.8*,81.5*,—
+69,5930,"SBM College of Engineering and Technology, SBM Nagar, Thamaraipadi(PO), Trichy Road, Dindigul-624005.",ELECTRONICS AND COMMUNICATION ENGINEERING,107.5,81.0*,—,85.0*,—,103.5*,—
+69,5930,"SBM College of Engineering and Technology, SBM Nagar, Thamaraipadi(PO), Trichy Road, Dindigul-624005.",ELECTRICAL AND ELECTRONICS ENGINEERING,90.5*,—,—,—,—,—,—
+69,5930,"SBM College of Engineering and Technology, SBM Nagar, Thamaraipadi(PO), Trichy Road, Dindigul-624005.",INFORMATION TECHNOLOGY,117.5,87.0*,—,—,86.5*,—,—
+69,5930,"SBM College of Engineering and Technology, SBM Nagar, Thamaraipadi(PO), Trichy Road, Dindigul-624005.",MECHANICAL ENGINEERING,83.8*,—,—,—,—,—,—
+69,5935,"Fatima Michael College of Engineering and Technology, Senkottai Village, Kalimangalam Panchayat,Sivaganga Main Road, Madurai-625020.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),136.0,112.5,125.5,111.5*,106.0,130.0*,—
+69,5935,"Fatima Michael College of Engineering and Technology, Senkottai Village, Kalimangalam Panchayat,Sivaganga Main Road, Madurai-625020.",CIVIL ENGINEERING,126.0,94.5*,—,110.0*,101.0*,—,—
+69,5935,"Fatima Michael College of Engineering and Technology, Senkottai Village, Kalimangalam Panchayat,Sivaganga Main Road, Madurai-625020.",COMPUTER SCIENCE AND ENGINEERING,147.0,119.5,139.0,109.0*,105.5,111.5,—
+69,5935,"Fatima Michael College of Engineering and Technology, Senkottai Village, Kalimangalam Panchayat,Sivaganga Main Road, Madurai-625020.",ELECTRONICS AND COMMUNICATION ENGINEERING,140.5,108.0,128.0,90.5*,93.0*,—,—
+69,5935,"Fatima Michael College of Engineering and Technology, Senkottai Village, Kalimangalam Panchayat,Sivaganga Main Road, Madurai-625020.",ELECTRICAL AND ELECTRONICS ENGINEERING,103.0,100.0*,103.0,87.5*,84.5*,—,—
+69,5935,"Fatima Michael College of Engineering and Technology, Senkottai Village, Kalimangalam Panchayat,Sivaganga Main Road, Madurai-625020.",MECHANICAL ENGINEERING,113.5,101.0*,—,—,98.5*,—,—
+69,5935,"Fatima Michael College of Engineering and Technology, Senkottai Village, Kalimangalam Panchayat,Sivaganga Main Road, Madurai-625020.",Computer Science and Engineering (Cyber Security),137.5,111.0,129.5,128.5*,104.5,—,—
+69,5942,"Ultra College of Engineering and Technology , 69/1, Ultra Nagar, Kodikulam I Bit, Madurai - Chennai Highway, Madurai-625104.",Artificial Intelligence and Data Science,103.5,91.5*,89.0*,87.0*,96.0*,—,—
+69,5942,"Ultra College of Engineering and Technology , 69/1, Ultra Nagar, Kodikulam I Bit, Madurai - Chennai Highway, Madurai-625104.",CIVIL ENGINEERING,90.5,—,—,—,—,—,—
+69,5942,"Ultra College of Engineering and Technology , 69/1, Ultra Nagar, Kodikulam I Bit, Madurai - Chennai Highway, Madurai-625104.",COMPUTER SCIENCE AND ENGINEERING,125.0,91.0*,—,—,88.5*,—,—
+69,5942,"Ultra College of Engineering and Technology , 69/1, Ultra Nagar, Kodikulam I Bit, Madurai - Chennai Highway, Madurai-625104.",ELECTRONICS AND COMMUNICATION ENGINEERING,96.5*,—,—,—,—,—,—
+69,5942,"Ultra College of Engineering and Technology , 69/1, Ultra Nagar, Kodikulam I Bit, Madurai - Chennai Highway, Madurai-625104.",ELECTRICAL AND ELECTRONICS ENGINEERING,106.0*,—,—,—,—,—,—
+69,5942,"Ultra College of Engineering and Technology , 69/1, Ultra Nagar, Kodikulam I Bit, Madurai - Chennai Highway, Madurai-625104.",INFORMATION TECHNOLOGY,91.0,—,—,91.0*,—,—,—
+69,5942,"Ultra College of Engineering and Technology , 69/1, Ultra Nagar, Kodikulam I Bit, Madurai - Chennai Highway, Madurai-625104.",MECHANICAL ENGINEERING,105.5*,—,—,—,—,—,—
+69,5986,"Velammal College of Engineering and Technology (Autonomous), Velammal Nagar, Viraganoor, Madurai -625009.",Artificial Intelligence and Data Science,181.0,177.0,180.5,169.5,117.5,—,—
+69,5986,"Velammal College of Engineering and Technology (Autonomous), Velammal Nagar, Viraganoor, Madurai -625009.",CIVIL ENGINEERING,166.0,155.0,160.5,145.5,101.5,129.0*,—
+69,5986,"Velammal College of Engineering and Technology (Autonomous), Velammal Nagar, Viraganoor, Madurai -625009.",COMPUTER SCIENCE AND ENGINEERING,188.5,184.5,187.0,176.5,142.0,141.5*,—
+69,5986,"Velammal College of Engineering and Technology (Autonomous), Velammal Nagar, Viraganoor, Madurai -625009.",ELECTRONICS AND COMMUNICATION ENGINEERING,182.5,178.0,179.5,173.5,135.5,120.5*,144.5*
+69,5986,"Velammal College of Engineering and Technology (Autonomous), Velammal Nagar, Viraganoor, Madurai -625009.",ELECTRICAL AND ELECTRONICS ENGINEERING,175.0,170.5,169.5,161.0,106.0,—,—
+69,5986,"Velammal College of Engineering and Technology (Autonomous), Velammal Nagar, Viraganoor, Madurai -625009.",Electronics Engineering (VLSI Design and Technology),174.5,171.0,169.0,155.5,125.5*,—,—
+69,5986,"Velammal College of Engineering and Technology (Autonomous), Velammal Nagar, Viraganoor, Madurai -625009.",INFORMATION TECHNOLOGY,181.5,178.0,173.0,170.5,119.5,—,—
+69,5986,"Velammal College of Engineering and Technology (Autonomous), Velammal Nagar, Viraganoor, Madurai -625009.",MECHANICAL ENGINEERING,168.5,160.0,156.0,146.5,117.5,—,—
+69,5986,"Velammal College of Engineering and Technology (Autonomous), Velammal Nagar, Viraganoor, Madurai -625009.",Computer Science and Engineering (Cyber Security),179.0,177.5,172.5,170.0,112.5,—,—
+69,5988,"Theni Kammavar Sangam College of Technology, Theni Main road, Koduvilarpatti (PO), Veerapandi(Via), Theni District-625534.",COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),131.0,101.0*,—,100.0,100.5*,96.5*,—
+69,5988,"Theni Kammavar Sangam College of Technology, Theni Main road, Koduvilarpatti (PO), Veerapandi(Via), Theni District-625534.",CIVIL ENGINEERING,125.0*,—,—,—,—,—,—
+69,5988,"Theni Kammavar Sangam College of Technology, Theni Main road, Koduvilarpatti (PO), Veerapandi(Via), Theni District-625534.",COMPUTER SCIENCE AND ENGINEERING,142.0,100.0,124.5,100.0,129.0*,130.0*,—
+69,5988,"Theni Kammavar Sangam College of Technology, Theni Main road, Koduvilarpatti (PO), Veerapandi(Via), Theni District-625534.",ELECTRONICS AND COMMUNICATION ENGINEERING,134.0,103.0*,—,105.5*,111.5*,—,—
+69,5988,"Theni Kammavar Sangam College of Technology, Theni Main road, Koduvilarpatti (PO), Veerapandi(Via), Theni District-625534.",ELECTRICAL AND ELECTRONICS ENGINEERING,105.0,92.0*,—,80.5*,89.0*,—,—
+70,5988,"Theni Kammavar Sangam College of Technology, Theni Main road, Koduvilarpatti (PO), Veerapandi(Via), Theni District-625534.",INFORMATION TECHNOLOGY,130.5,102.0*,104.5*,93.0*,92.5*,97.5,—
+70,5988,"Theni Kammavar Sangam College of Technology, Theni Main road, Koduvilarpatti (PO), Veerapandi(Via), Theni District-625534.",MECHANICAL ENGINEERING,84.5,—,—,—,—,—,—
+70,5990,"Latha Mathavan Engineering College, Latha Mathavan Nagar, Kidaripatti, Melur Taluk, Madurai-625301.",CIVIL ENGINEERING,87.0*,—,—,—,—,—,—
+70,5990,"Latha Mathavan Engineering College, Latha Mathavan Nagar, Kidaripatti, Melur Taluk, Madurai-625301.",COMPUTER SCIENCE AND ENGINEERING,122.5,97.0*,85.5,112.0*,87.5*,93.0,—
+70,5990,"Latha Mathavan Engineering College, Latha Mathavan Nagar, Kidaripatti, Melur Taluk, Madurai-625301.",ELECTRONICS AND COMMUNICATION ENGINEERING,90.0,80.5*,—,—,80.5*,—,—
+70,5990,"Latha Mathavan Engineering College, Latha Mathavan Nagar, Kidaripatti, Melur Taluk, Madurai-625301.",ELECTRICAL AND ELECTRONICS ENGINEERING,112.0*,—,—,—,—,—,—
+70,5990,"Latha Mathavan Engineering College, Latha Mathavan Nagar, Kidaripatti, Melur Taluk, Madurai-625301.",MECHANICAL ENGINEERING,93.5*,—,—,—,—,—,—
