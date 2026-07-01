@@ -40,3 +40,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# rank list source files (large, generated locally)
+data/ranks/*.pdf
+data/ranks/*.csv
+data/processed/
+scripts/peek-pdf.mjs

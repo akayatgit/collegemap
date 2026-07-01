@@ -9,6 +9,7 @@ import {
   scoreToRanks,
   rankToScore,
   has2026Data,
+  initBundledRankData,
 } from "@/lib/rankLookup";
 import { logReportGenerated } from "@/lib/audit";
 import EmailReportModal from "./EmailReportModal";
@@ -285,6 +286,8 @@ export default function CutoffFinder({ data }: { data: CollegeRow[] }) {
     const sync = () => setRankDataReady(has2026Data());
     sync();
     window.addEventListener("rank2026-updated", sync);
+    // Auto-load bundled 2026 data from /data/rank2026.json
+    initBundledRankData();
     return () => window.removeEventListener("rank2026-updated", sync);
   }, []);
 
@@ -401,14 +404,14 @@ export default function CutoffFinder({ data }: { data: CollegeRow[] }) {
 
   const allDeptsOpen = results ? results.uniqueDepts === totalUniqueDepts : false;
 
-  // ── Rank auto-fill: when rank entered + cutoff empty → fill cutoff ────────────
+  // ── Rank auto-fill: whenever rank resolves, always update cutoff ─────────────
   const parsedRank = parseInt(rankInput, 10);
   const hasValidRank = rankDataReady && !isNaN(parsedRank) && parsedRank > 0;
 
   useEffect(() => {
     if (!hasValidRank) return;
     const res = rankToScore(parsedRank);
-    if (res && !cutoff) {
+    if (res) {
       setCutoff(res.score.toString());
     }
   // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -602,20 +605,78 @@ export default function CutoffFinder({ data }: { data: CollegeRow[] }) {
               boxShadow: "6px 6px 0 var(--color-ink)",
               width: "100%", maxWidth: 380, flexShrink: 0,
             }}>
+
+              {/* ── 1. Rank input (first) ── */}
+              {rankMounted && (
+                <>
+                  <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 8 }}>
+                    <label style={{
+                      fontFamily: "var(--font-body)", fontWeight: 700, fontSize: "0.7rem",
+                      letterSpacing: "0.1em", textTransform: "uppercase", color: "#aaa",
+                    }}>
+                      Your 2026 TNEA Rank
+                    </label>
+                    {rankDataReady && (
+                      <span style={{
+                        padding: "2px 8px", borderRadius: 9999,
+                        background: "#16a34a", color: "#fff",
+                        fontFamily: "var(--font-display)", fontWeight: 700, fontSize: "0.58rem",
+                        textTransform: "uppercase", letterSpacing: "0.06em",
+                      }}>
+                        2026 Live ✓
+                      </span>
+                    )}
+                  </div>
+
+                  <input
+                    type="number" min={1} placeholder="e.g. 12500"
+                    value={rankInput}
+                    onChange={(e) => { setRankInput(e.target.value); }}
+                    style={{
+                      width: "100%", padding: "12px 16px", borderRadius: 12, border: "2px solid",
+                      borderColor: hasValidRank && rankLookupResult ? "var(--color-teal)" : "#e0e0e0",
+                      fontFamily: "var(--font-display)", fontWeight: 700, fontSize: "2rem",
+                      color: "var(--color-ink)", outline: "none", background: "#fafafa", marginBottom: 6,
+                    }}
+                  />
+
+                  {rankDataReady && rankLookupResult && (
+                    <p style={{ fontFamily: "var(--font-body)", fontSize: "0.72rem", color: "#16a34a", margin: "0 0 14px" }}>
+                      ✓ Rank {parsedRank.toLocaleString("en-IN")} → cutoff <strong>{rankLookupResult.score}</strong> · auto-filled below
+                    </p>
+                  )}
+                  {rankDataReady && rankInput && !rankLookupResult && (
+                    <p style={{ fontFamily: "var(--font-body)", fontSize: "0.72rem", color: "#f97316", margin: "0 0 14px" }}>
+                      Rank not found in 2026 data
+                    </p>
+                  )}
+                  {!rankDataReady && rankMounted && (
+                    <p style={{ fontFamily: "var(--font-body)", fontSize: "0.7rem", color: "#aaa", margin: "0 0 14px" }}>
+                      Loading 2026 rank data…
+                    </p>
+                  )}
+                </>
+              )}
+
+              {/* ── 2. Cutoff score (second, auto-filled from rank) ── */}
               <label style={{ fontFamily: "var(--font-body)", fontWeight: 700, fontSize: "0.7rem", letterSpacing: "0.1em", textTransform: "uppercase", color: "#aaa", display: "block", marginBottom: 8 }}>
-                Enter your TNEA 2026 Cutoff Score (0 – 200)
+                TNEA 2026 Cutoff Score (0 – 200)
               </label>
               <input
                 type="number" min={0} max={200} step={0.5} placeholder="e.g. 187.5"
                 value={cutoff}
-                onChange={(e) => setCutoff(e.target.value)}
+                onChange={(e) => { setRankInput(""); setCutoff(e.target.value); }}
                 style={{
                   width: "100%", padding: "12px 16px", borderRadius: 12, border: "2px solid",
                   borderColor: hasResult ? "var(--color-ink)" : "#e0e0e0",
                   fontFamily: "var(--font-display)", fontWeight: 700, fontSize: "2rem",
-                  color: "var(--color-ink)", outline: "none", background: "#fafafa", marginBottom: 20,
+                  color: "var(--color-ink)", outline: "none", background: hasResult ? "#fffff8" : "#fafafa",
+                  marginBottom: 20,
+                  transition: "border-color 0.2s, background 0.2s",
                 }}
               />
+
+              {/* ── 3. Category ── */}
               <label style={{ fontFamily: "var(--font-body)", fontWeight: 700, fontSize: "0.7rem", letterSpacing: "0.1em", textTransform: "uppercase", color: "#aaa", display: "block", marginBottom: 8 }}>
                 Quota / Category
               </label>
@@ -633,8 +694,9 @@ export default function CutoffFinder({ data }: { data: CollegeRow[] }) {
                   </button>
                 ))}
               </div>
+
               {hasResult && (
-                <div style={{ marginTop: 16, paddingTop: 14, borderTop: "1px solid #eee" }}>
+                <div style={{ marginTop: 14, paddingTop: 12, borderTop: "1px solid #eee" }}>
                   <p style={{ fontFamily: "var(--font-body)", fontSize: "0.78rem", color: "#888", margin: 0 }}>
                     Showing <strong style={{ color: "var(--color-ink)" }}>{category.toUpperCase()}</strong> cutoffs for score{" "}
                     <strong style={{ color: "var(--color-ink)" }}>{cutoff}</strong>
@@ -642,7 +704,7 @@ export default function CutoffFinder({ data }: { data: CollegeRow[] }) {
                 </div>
               )}
 
-              {/* Generate & email report button */}
+              {/* ── 4. Generate button (last) ── */}
               {hasResult && (
                 <button
                   type="button"
@@ -670,61 +732,6 @@ export default function CutoffFinder({ data }: { data: CollegeRow[] }) {
                   ✦ Generate &amp; Email Report
                   <span style={{ fontSize: "1.1rem" }}>↓</span>
                 </button>
-              )}
-
-              {/* ── Rank input ── */}
-              {rankMounted && (
-                <div style={{ marginTop: 20, paddingTop: 18, borderTop: "2px dashed #e0e0e0" }}>
-                  <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 8 }}>
-                    <label style={{
-                      fontFamily: "var(--font-body)", fontWeight: 700, fontSize: "0.7rem",
-                      letterSpacing: "0.1em", textTransform: "uppercase",
-                      color: "var(--color-ink)",
-                    }}>
-                      Your 2026 TNEA Rank
-                    </label>
-                    {!rankDataReady && (
-                      <span style={{
-                        padding: "2px 8px", borderRadius: 9999,
-                        background: "var(--color-pink)", color: "#fff",
-                        fontFamily: "var(--font-display)", fontWeight: 700, fontSize: "0.58rem",
-                        textTransform: "uppercase", letterSpacing: "0.06em",
-                      }}>
-                        Awaiting upload
-                      </span>
-                    )}
-                  </div>
-
-                  <input
-                    type="number" min={1} placeholder="e.g. 12500"
-                    value={rankInput}
-                    onChange={(e) => setRankInput(e.target.value)}
-                    style={{
-                      width: "100%", padding: "10px 14px", borderRadius: 12, border: "2px solid",
-                      borderColor: hasValidRank && rankLookupResult ? "var(--color-teal)" : "#e0e0e0",
-                      fontFamily: "var(--font-display)", fontWeight: 700, fontSize: "1.4rem",
-                      color: "var(--color-ink)", outline: "none", background: "#fafafa",
-                    }}
-                  />
-
-                  {!rankDataReady && (
-                    <p style={{ fontFamily: "var(--font-body)", fontSize: "0.72rem", color: "#888", margin: "8px 0 0", lineHeight: 1.5 }}>
-                      2026 rank list goes live July 1. After admin upload, rank → cutoff lookup will work here.
-                    </p>
-                  )}
-
-                  {rankDataReady && rankLookupResult && (
-                    <p style={{ fontFamily: "var(--font-body)", fontSize: "0.72rem", color: "#16a34a", margin: "6px 0 0" }}>
-                      ✓ Rank {parsedRank.toLocaleString()} → 2026 cutoff <strong>{rankLookupResult.score}</strong>
-                      {!cutoff && " · auto-filled above"}
-                    </p>
-                  )}
-                  {rankDataReady && rankInput && !rankLookupResult && (
-                    <p style={{ fontFamily: "var(--font-body)", fontSize: "0.72rem", color: "#f97316", margin: "6px 0 0" }}>
-                      Rank not found in 2026 data
-                    </p>
-                  )}
-                </div>
               )}
             </div>
           </div>

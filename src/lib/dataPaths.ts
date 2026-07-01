@@ -12,4 +12,6 @@ export const DATA_PATHS = {
   processedDir: path.join(DATA_ROOT, "processed"),
   rankJson: (year: number | string) =>
     path.join(DATA_ROOT, "processed", `rank${year}.json`),
+  publicRankJson: (year: number | string) =>
+    path.join(process.cwd(), "public", "data", `rank${year}.json`),
 } as const;

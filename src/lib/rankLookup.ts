@@ -1,6 +1,7 @@
 /**
- * rankLookup.ts — TNEA 2026 rank data (admin-uploaded CSV → localStorage).
- * No 2025 fallback; rank features require a 2026 upload.
+ * rankLookup.ts — TNEA 2026 rank data.
+ * Primary source: /data/rank2026.json (bundled in public/, auto-loaded at startup).
+ * Override: admin-uploaded CSV saved to localStorage (takes precedence if present).
  */
 
 // ── Types ─────────────────────────────────────────────────────────────────────
@@ -34,7 +35,34 @@ type RankDataset = {
   scoreMap: Record<string, ScoreEntry>;
 };
 
-// ── Dataset (2026 from localStorage only) ─────────────────────────────────────
+// ── Bundled dataset (fetched from public/data/rank2026.json) ──────────────────
+
+let _bundledDataset: RankDataset | null = null;
+let _loadPromise: Promise<void> | null = null;
+
+/**
+ * Call once on client mount. Fetches /data/rank2026.json into memory and
+ * fires "rank2026-updated" so any listening state syncs automatically.
+ */
+export function initBundledRankData(): Promise<void> {
+  if (_bundledDataset) return Promise.resolve();
+  if (_loadPromise) return _loadPromise;
+  _loadPromise = (async () => {
+    try {
+      const res = await fetch("/data/rank2026.json");
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      _bundledDataset = (await res.json()) as RankDataset;
+      if (typeof window !== "undefined") {
+        window.dispatchEvent(new Event("rank2026-updated"));
+      }
+    } catch (e) {
+      console.warn("Could not load bundled rank data:", e);
+    }
+  })();
+  return _loadPromise;
+}
+
+// ── localStorage override (admin CSV upload) ──────────────────────────────────
 
 const LS_KEY = "rank2026";
 
@@ -63,11 +91,12 @@ export function clear2026Storage(): void {
 
 export function has2026Data(): boolean {
   if (typeof window === "undefined") return false;
-  return !!window.localStorage.getItem(LS_KEY);
+  return !!_bundledDataset || !!window.localStorage.getItem(LS_KEY);
 }
 
 function getDataset(): { dataset: RankDataset; year: 2026 } | null {
-  const d2026 = load2026FromStorage();
+  // localStorage upload takes precedence over bundled data
+  const d2026 = load2026FromStorage() ?? _bundledDataset;
   if (!d2026) return null;
   return { dataset: d2026, year: 2026 };
 }
