@@ -1,0 +1,26 @@
+{
+  "functions": {
+    "src/app/api/leads/route.ts": {
+      "maxDuration": 30
+    },
+    "src/app/api/audit/page-visit/route.ts": {
+      "maxDuration": 10
+    },
+    "src/app/api/audit/report/route.ts": {
+      "maxDuration": 10
+    },
+    "src/app/api/audit/stats/route.ts": {
+      "maxDuration": 10
+    }
+  },
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET,POST,OPTIONS" },
+        { "key": "Access-Control-Allow-Headers", "value": "Content-Type" }
+      ]
+    }
+  ]
+}

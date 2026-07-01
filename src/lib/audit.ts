@@ -88,10 +88,16 @@ export async function saveLead(payload: LeadPayload): Promise<{ ok: boolean; err
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(payload),
     });
-    const data = await res.json();
-    if (!res.ok) return { ok: false, error: data.error ?? "Failed to save" };
+    if (!res.ok) {
+      const contentType = res.headers.get("content-type") ?? "";
+      if (contentType.includes("application/json")) {
+        const data = await res.json();
+        return { ok: false, error: data.error ?? "Request failed" };
+      }
+      return { ok: false, error: `Service unavailable (${res.status}). Please try again later.` };
+    }
     return { ok: true };
   } catch {
-    return { ok: false, error: "Network error" };
+    return { ok: false, error: "Network error. Please check your connection and try again." };
   }
 }
